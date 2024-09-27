@@ -79,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Adityaroy000/DSA-CODES/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/Adityaroy000/DSA-CODES/tree/master/0792-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Adityaroy000/DSA-CODES/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
