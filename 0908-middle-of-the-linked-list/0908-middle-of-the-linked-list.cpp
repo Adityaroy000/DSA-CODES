@@ -10,27 +10,16 @@
  */
 class Solution {
 public:
-    int length(ListNode* head){
-        ListNode* temp = head;
-        int cnt = 0;
-        while(temp!=NULL){
-            cnt++;
-            temp=temp->next;
-        }
-        return cnt;
-    }
     ListNode* middleNode(ListNode* head) {
-        int cnt = length(head);
-        int mid;
-        if(cnt%2==0){
-            mid = ((cnt+1)/2)+1;
-        }else{
-            mid = ((cnt+1)/2);
+        if(head == NULL || head->next==NULL){
+            return head;
         }
-        ListNode* temp = head;
-        for(int i = 1; i<mid; i++){
-            temp = temp->next;
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while(fast!=NULL&&fast->next!=NULL){
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        return temp;
+        return slow;
     }
 };
