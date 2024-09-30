@@ -51,7 +51,6 @@ public:
         if(head==NULL|| head->next==NULL){
             return head;
         }
-
         ListNode* middle = middleNode(head);
         ListNode* right = middle->next;
         middle->next = NULL;
