@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adityaroy000/DSA-CODES/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Adityaroy000/DSA-CODES/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/Adityaroy000/DSA-CODES/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Adityaroy000/DSA-CODES/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0142-linked-list-cycle-ii) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Adityaroy000/DSA-CODES/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/Adityaroy000/DSA-CODES/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Adityaroy000/DSA-CODES/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Adityaroy000/DSA-CODES/tree/master/0148-sort-list) |
