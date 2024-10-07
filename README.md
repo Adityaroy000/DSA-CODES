@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Adityaroy000/DSA-CODES/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Adityaroy000/DSA-CODES/tree/master/0792-binary-search) |
 ## Hash Table
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adityaroy000/DSA-CODES/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Adityaroy000/DSA-CODES/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Adityaroy000/DSA-CODES/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Adityaroy000/DSA-CODES/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adityaroy000/DSA-CODES/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
