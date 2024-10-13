@@ -9,7 +9,6 @@ public:
             int mid = low +(high-low)/2;
             if(nums[mid]==target) return true;
             if(nums[low]==nums[mid] && nums[mid]==nums[high]){
-                if(nums[low]==target) return true;
                 low++;
                 high--;
             }
