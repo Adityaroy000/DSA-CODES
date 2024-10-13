@@ -5,10 +5,10 @@ public:
         int low = 0;
         int high = n-1;
         while(low<=high){
-            
             int mid = low +(high-low)/2;
             if(nums[mid]==target) return true;
-            if(nums[low]==nums[mid] && nums[mid]==nums[high]){
+            if(nums[low]==nums[high] ){
+                if(nums[low]==target) return true;
                 low++;
                 high--;
             }
