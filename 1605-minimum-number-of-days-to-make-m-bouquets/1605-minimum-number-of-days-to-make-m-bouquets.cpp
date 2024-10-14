@@ -19,9 +19,8 @@ public:
                         no++;
                         cnt = 0;
                     }
-                }else{
-                    cnt = 0;
                 }
+                else cnt = 0;
                 if(no>=m) break;
             }
             if(no>=m){
