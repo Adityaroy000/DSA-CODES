@@ -13,7 +13,6 @@ int maxele(vector<vector<int>>& mat,int n,int m,int mid){
     vector<int> findPeakGrid(vector<vector<int>>& mat) {
         int n = mat.size();
         int m = mat[0].size();
-        vector<int>ans;
         for(int i = 0; i<n; i++){
             int low = 0,high = m-1;
             while(low<=high){
