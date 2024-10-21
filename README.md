@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Adityaroy000/DSA-CODES/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Adityaroy000/DSA-CODES/tree/master/0050-powx-n) |
 | [0670-maximum-swap](https://github.com/Adityaroy000/DSA-CODES/tree/master/0670-maximum-swap) |
+| [2050-count-good-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/2050-count-good-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Adityaroy000/DSA-CODES/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Adityaroy000/DSA-CODES/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Adityaroy000/DSA-CODES/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/2050-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
