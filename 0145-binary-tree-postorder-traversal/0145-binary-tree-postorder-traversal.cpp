@@ -15,21 +15,18 @@ public:
         if(root==NULL) return {};
         vector<int>temp;
         stack<TreeNode*>st;
-        TreeNode* lastvisited = NULL;
-        TreeNode* curr = root;
-        while(curr!=NULL||!st.empty()){
-            while(curr!=NULL){
-                st.push(curr);
-                curr = curr->left;
-            }
-            TreeNode* topNode = st.top();
-            if(topNode->right!=NULL && lastvisited!= topNode->right ){
-                curr = topNode->right;
-            }else{
-                temp.push_back(topNode->val);
-                lastvisited = topNode;
-                st.pop();
-            }
+        stack<TreeNode*>s2;
+        st.push(root);
+        while(!st.empty()){
+            TreeNode* curr = st.top();
+            st.pop();
+            s2.push(curr);
+            if(curr->left!=NULL) st.push(curr->left);
+            if(curr->right!=NULL) st.push(curr->right);
+        }
+        while(!s2.empty()){
+            temp.push_back(s2.top()->val);
+            s2.pop();
         }
         return temp;
     }
