@@ -14,31 +14,14 @@ public:
     int height(TreeNode* root) {
         if(root==NULL) return 0;
         int lh = height(root->left);
+        if(lh == -1) return -1;
         int rh = height(root->right);
-        if(lh>rh) return lh+1;
-        else return rh+1;
+        if(rh == -1) return -1;
+        if(abs(lh-rh)>1) return -1;
+        return max(lh,rh)+1;
     }
     bool isBalanced(TreeNode* root) {
-        TreeNode* visited = NULL;
-        stack<TreeNode*>st;
-        TreeNode* curr = root;
-        while(curr!=NULL || !st.empty()){
-            while(curr){
-                st.push(curr);
-                curr = curr->left;
-            }
-            TreeNode* topnode = st.top();
-            if(topnode->right && visited!=topnode->right){
-                curr = topnode->right;
-            }else{
-                int bf = height(topnode->left)-height(topnode->right);
-                if(bf >= 2 || bf <= -2){
-                    return false;
-                }
-                visited = topnode;
-                st.pop();
-            }
-        }
-        return true;
+        
+        return height(root) != -1;
     }
 };
