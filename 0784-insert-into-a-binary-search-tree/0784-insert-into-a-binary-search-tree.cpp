@@ -20,17 +20,9 @@ public:
             if(val<curr->val) curr = curr->left;
             else if(val > curr->val) curr = curr->right;
         }
-        if(val < ptr->val){
-            TreeNode* add = new TreeNode(val);
-            ptr->left = add;
-            add->left = NULL;
-            add->right = NULL;
-        }else{
-            TreeNode* add = new TreeNode(val);
-            ptr->right = add;
-            add->left = NULL;
-            add->right = NULL;
-        }
+        TreeNode* add = new TreeNode(val);
+        if(val < ptr->val) ptr->left = add;
+        else ptr->right = add;
         return root;
     }
 };
