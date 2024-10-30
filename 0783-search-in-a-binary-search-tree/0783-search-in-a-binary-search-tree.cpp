@@ -16,21 +16,14 @@ public:
         TreeNode* curr= root;
         int cnt = 0;
         while(curr){
-            if(val<curr->val){
-                curr = curr->left;
-            }
-            else if(val>curr->val){
-                curr = curr->right;
-            }
+            if(val<curr->val) curr = curr->left;
+            else if(val>curr->val) curr = curr->right;
             else {
                 cnt = 1;
                 break;
             }
         }
-        if(cnt == 1){
-            return curr;
-        }else{
-            return NULL;
-        }
+        if(cnt == 1) return curr;
+        else return NULL;
     }
 };
