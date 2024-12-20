@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/2047-find-a-peak-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/Adityaroy000/DSA-CODES/tree/master/2227-sum-of-subarray-ranges) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Adityaroy000/DSA-CODES/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Adityaroy000/DSA-CODES/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Adityaroy000/DSA-CODES/tree/master/0735-asteroid-collision) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Adityaroy000/DSA-CODES/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Adityaroy000/DSA-CODES/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/Adityaroy000/DSA-CODES/tree/master/1127-last-stone-weight) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Adityaroy000/DSA-CODES/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Adityaroy000/DSA-CODES/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Monotonic Queue
 |  |
 | ------- |
