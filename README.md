@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaroy000/DSA-CODES/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0410-split-array-largest-sum) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0540-single-element-in-a-sorted-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaroy000/DSA-CODES/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Adityaroy000/DSA-CODES/tree/master/0355-design-twitter) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0460-lfu-cache](https://github.com/Adityaroy000/DSA-CODES/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/0560-subarray-sum-equals-k) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Adityaroy000/DSA-CODES/tree/master/0231-power-of-two) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Tree
 |  |
@@ -461,4 +464,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
