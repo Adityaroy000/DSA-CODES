@@ -1,35 +1,24 @@
 class Solution {
-public:
-    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
+private:
+    void dfs(int sr,int sc ,vector<vector<int>>& ans,vector<vector<int>>& image,int drow[], int dcol[],int color,int iniColor){
         int r = image.size();
         int c = image[0].size();
-        vector<vector<int>>vis(r,vector<int>(c,0));
-        vector<vector<int>>ans;
-        vis[sr][sc] = color;
-        queue<pair<int,int>>q;
-        q.push({sr,sc});
+        ans[sr][sc]=color;
+        for(int i = 0; i<4; i++){
+            int nrow = sr+drow[i];
+            int ncol = sc+dcol[i];
+            if(ncol<c&&ncol>=0&&nrow<r&&nrow>=0&&ans[nrow][ncol]!=color&&iniColor==image[nrow][ncol]){
+                dfs(nrow,ncol,ans,image,drow,dcol,color,iniColor);
+            }
+        }
+    }
+public:
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
+        vector<vector<int>>ans = image;
+        int iniColor = ans[sr][sc];
         int drow[] = {-1,0,1,0};
         int dcol[] = {0,1,0,-1};
-        while(!q.empty()){
-            int rid = q.front().first;
-            int cid = q.front().second;
-            q.pop();
-            for(int i = 0; i<4; i++){
-                int nrow = rid+drow[i];
-                int ncol = cid+dcol[i];
-                if(ncol<c&&ncol>=0&&nrow<r&&nrow>=0&&vis[nrow][ncol]!=color&&image[sr][sc]==image[nrow][ncol]){
-                    vis[nrow][ncol] = color;
-                    q.push({nrow,ncol});
-                }
-            }
-        }
-        for(int i = 0; i<r; i++){
-            for(int j = 0;j<c; j++){
-                if(vis[i][j]!=color){
-                    vis[i][j] = image[i][j];
-                }
-            }
-        }
-        return vis;
+        dfs(sr,sc,ans,image,drow,dcol,color,iniColor);
+        return ans;
     }
 };
