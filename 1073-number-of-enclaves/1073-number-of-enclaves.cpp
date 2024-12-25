@@ -22,29 +22,21 @@ public:
         int r = grid.size();
         int c = grid[0].size();
         vector<vector<int>>vis(r,vector<int>(c,0));
-        int count = 0;
         queue<pair<int,int>>q;
-        for(int j = 0; j<c; j++){
-            if(grid[0][j]==1 && vis[0][j]==0){
-                q.push({0,j});
-                vis[0][j]=1;
-            }
-            if(grid[r-1][j]==1 && vis[r-1][j]==0){
-                q.push({r-1,j});
-                vis[r-1][j]=1;
-            }
-        }
+        //boundary check
         for(int i = 0; i<r; i++){
-            if(grid[i][0]==1 && vis[i][0]==0){
-                q.push({i,0});
-                vis[i][0]=1;
-            }
-            if(grid[i][c-1]==1 && vis[i][c-1]==0){
-                q.push({i,c-1});
-                vis[i][c-1]=1;
+            for(int j = 0; j<c; j++){
+                //first row,first col,last row,last col
+                if(i==0 || j==0|| i==r-1||j==c-1){
+                    if(grid[i][j]==1){
+                        q.push({i,j});
+                        vis[i][j]=1;
+                    }
+                }
             }
         }
         bfs(vis,grid,q);
+        int count = 0;
         for(int i = 0; i<r; i++){
             for(int j = 0; j<c; j++){
                 if(grid[i][j]==1 && !vis[i][j]) count++;
