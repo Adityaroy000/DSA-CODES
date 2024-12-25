@@ -7,7 +7,7 @@ private:
         for(int i = 0; i<4; i++){
             int nrow = sr+drow[i];
             int ncol = sc+dcol[i];
-            if(ncol<c&&ncol>=0&&nrow<r&&nrow>=0&&ans[nrow][ncol]!=color&&iniColor==image[nrow][ncol]){
+            if(ncol<c&&ncol>=0&&nrow<r&&nrow>=0&&ans[nrow][ncol]!=color&&iniColor==ans[nrow][ncol]){
                 dfs(nrow,ncol,ans,image,drow,dcol,color,iniColor);
             }
         }
