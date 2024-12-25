@@ -1,13 +1,21 @@
 class Solution {
 private:
-    void dfs(int row,int col,vector<vector<int>>& vis,vector<vector<int>>& grid,int drow[],int dcol[],int& cnt){
+    void bfs(int row,int col,vector<vector<int>>& vis,vector<vector<int>>& grid,int drow[],int dcol[],int& cnt){
+        queue<pair<int,int>>q;
+        q.push({row,col});
         vis[row][col]=1;
-        cnt++;
-        for(int i = 0; i<4; i++){
-            int nrow = row+drow[i];
-            int ncol = col+dcol[i];
-            if(nrow<grid.size() && nrow>=0 && ncol<grid[0].size() && ncol>=0 && vis[nrow][ncol]==0 && grid[nrow][ncol]==1){
-                dfs(nrow,ncol,vis,grid,drow,dcol,cnt);
+        while(!q.empty()){
+            int rid = q.front().first;
+            int cid = q.front().second;
+            q.pop();
+            cnt++;
+            for(int i = 0; i<4; i++){
+                int nrow = rid+drow[i];
+                int ncol = cid+dcol[i];
+                if(nrow<grid.size() && nrow>=0 && ncol<grid[0].size() && ncol>=0 && vis[nrow][ncol]==0 && grid[nrow][ncol]==1){
+                    vis[nrow][ncol]=1;
+                    q.push({nrow,ncol});
+                }
             }
         }
     }
@@ -27,18 +35,18 @@ public:
         }
         for(int j = 0; j<c; j++){
             if(grid[0][j]==1 && vis[0][j]==0){
-                dfs(0,j,vis,grid,drow,dcol,cnt);
+                bfs(0,j,vis,grid,drow,dcol,cnt);
             }
             if(grid[r-1][j]==1 && vis[r-1][j]==0){
-                dfs(r-1,j,vis,grid,drow,dcol,cnt);
+                bfs(r-1,j,vis,grid,drow,dcol,cnt);
             }
         }
         for(int i = 0; i<r; i++){
             if(grid[i][0]==1 && vis[i][0]==0){
-                dfs(i,0,vis,grid,drow,dcol,cnt);
+                bfs(i,0,vis,grid,drow,dcol,cnt);
             }
             if(grid[i][c-1]==1 && vis[i][c-1]==0){
-                dfs(i,c-1,vis,grid,drow,dcol,cnt);
+                bfs(i,c-1,vis,grid,drow,dcol,cnt);
             }
         }
         return (count-cnt);
