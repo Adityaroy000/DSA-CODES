@@ -3,10 +3,8 @@ public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
         int n = wordList.size();
         int s = wordList[0].size();
-        unordered_set<string>st;
-        for(int i = 0; i<n; i++){
-            st.insert(wordList[i]);
-        }
+        unordered_set<string>st(wordList.begin(),wordList.end());
+        
         if(st.find(endWord)==st.end()){
             return 0;
         }
