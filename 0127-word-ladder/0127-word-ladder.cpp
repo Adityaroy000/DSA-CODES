@@ -4,12 +4,12 @@ public:
         int n = wordList.size();
         int s = wordList[0].size();
         unordered_set<string>st(wordList.begin(),wordList.end());
-        
         if(st.find(endWord)==st.end()){
             return 0;
         }
         queue<pair<string,int>>q;
         q.push({beginWord,1});
+        st.erase(beginWord);
         while(!q.empty()){
             string str = q.front().first;
             int step = q.front().second;
