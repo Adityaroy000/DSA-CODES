@@ -14,12 +14,12 @@ public:
             string str = q.front().first;
             int step = q.front().second;
             q.pop();
+            if(str==endWord) return step;
             for(int i=0;i<str.length();i++){
                 char oc = str[i];
                 for(char ch = 'a'; ch<='z'; ch++){
                     str[i]=ch;
                     if(st.find(str)!=st.end()){
-                        if(str==endWord) return step+1;
                         q.push({str,step+1});
                         st.erase(str);
                     }
