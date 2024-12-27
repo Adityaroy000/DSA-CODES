@@ -1,6 +1,6 @@
 class Solution {
 private:
-    bool check(int start,int n,vector<vector<int>>& graph,vector<int>& color){
+    bool check(int start,vector<vector<int>>& graph,vector<int>& color){
         queue<int>q;
         q.push(start);
         color[start] = 0;
@@ -24,7 +24,7 @@ public:
         vector<int>color(n,-1);
         for(int i =0; i<n; i++){
             if(color[i]== -1){
-                if(check(i,n,graph,color)==false){
+                if(check(i,graph,color)==false){
                     return false;
                 }
             }
