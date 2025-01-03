@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Adityaroy000/DSA-CODES/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityaroy000/DSA-CODES/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-hand-of-straights](https://github.com/Adityaroy000/DSA-CODES/tree/master/0876-hand-of-straights) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Adityaroy000/DSA-CODES/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Adityaroy000/DSA-CODES/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Adityaroy000/DSA-CODES/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Adityaroy000/DSA-CODES/tree/master/0801-is-graph-bipartite) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Adityaroy000/DSA-CODES/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/Adityaroy000/DSA-CODES/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Adityaroy000/DSA-CODES/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Matrix
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Adityaroy000/DSA-CODES/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Adityaroy000/DSA-CODES/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Adityaroy000/DSA-CODES/tree/master/0820-find-eventual-safe-states) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Adityaroy000/DSA-CODES/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Adityaroy000/DSA-CODES/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Adityaroy000/DSA-CODES/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Adityaroy000/DSA-CODES/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Adityaroy000/DSA-CODES/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Adityaroy000/DSA-CODES/tree/master/0820-find-eventual-safe-states) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Adityaroy000/DSA-CODES/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Adityaroy000/DSA-CODES/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Adityaroy000/DSA-CODES/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
