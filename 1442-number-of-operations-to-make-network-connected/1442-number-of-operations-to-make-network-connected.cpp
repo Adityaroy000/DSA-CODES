@@ -35,14 +35,14 @@ public:
         for(int i = 0; i<connections.size(); i++){
             int u = connections[i][0];
             int v = connections[i][1];
-            if(ds.findup(u) == ds.findup(v)){
+            if(ds.findup(u) == ds.findup(v)){//if both have same ulp that means they are already in same component so they are connected to all the nodes in that component, and if there is a edge between those nodes that means it is an extra edge
                 extra++;
             }
             ds.unionBySize(u,v);
         }
         int nc = 0;
         for(int i = 0;i<n; i++){
-            if(i == ds.findup(i)) nc++;
+            if(i == ds.findup(i)) nc++;//no of node who is parent of itself is the no of component
         }
         if(extra>=(nc-1)) return nc-1;
         return -1;
