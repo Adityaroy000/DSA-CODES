@@ -1,16 +1,13 @@
 class Solution {
 public:
     bool check(vector<int>& nums) {
-        vector<int>copy = nums;
-        sort(copy.begin(),copy.end());
         int n = nums.size();
-        vector<int>temp(n,0);
-        for(int x = 1; x<=n; x++){
-            for(int i = 0;i<n; i++){
-                temp[i] = nums[(i+x)%n];
-            }
-            if(temp == copy) return true;
+        int cnt = 0;
+        for(int i = 1; i<n; i++){
+            if(nums[i-1]>nums[i]) cnt++;
         }
-        return false;
+        if(nums[n-1]>nums[0]) cnt++;
+        if(cnt > 1) return false;
+        return true;
     }
 };
