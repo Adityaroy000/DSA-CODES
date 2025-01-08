@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Adityaroy000/DSA-CODES/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0410-split-array-largest-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Adityaroy000/DSA-CODES/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0540-single-element-in-a-sorted-array) |
