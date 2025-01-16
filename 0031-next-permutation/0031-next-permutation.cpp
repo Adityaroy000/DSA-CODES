@@ -13,7 +13,7 @@ public:
             reverse(nums.begin(),nums.end());
             return;
         }
-        for(int i = n-1; i>0; i--){
+        for(int i = n-1; i>=0; i--){
             if(nums[i]>nums[index]){
                 swap(nums[i],nums[index]);
                 break;
