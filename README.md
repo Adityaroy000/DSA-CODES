@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Adityaroy000/DSA-CODES/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Adityaroy000/DSA-CODES/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Adityaroy000/DSA-CODES/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3721-count-mentions-per-user](https://github.com/Adityaroy000/DSA-CODES/tree/master/3721-count-mentions-per-user) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/Adityaroy000/DSA-CODES/tree/master/0670-maximum-swap) |
 | [2050-count-good-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/2050-count-good-numbers) |
+| [3721-count-mentions-per-user](https://github.com/Adityaroy000/DSA-CODES/tree/master/3721-count-mentions-per-user) |
 ## Simulation
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Adityaroy000/DSA-CODES/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Adityaroy000/DSA-CODES/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Adityaroy000/DSA-CODES/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3721-count-mentions-per-user](https://github.com/Adityaroy000/DSA-CODES/tree/master/3721-count-mentions-per-user) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Adityaroy000/DSA-CODES/tree/master/0721-accounts-merge) |
 | [0876-hand-of-straights](https://github.com/Adityaroy000/DSA-CODES/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [3721-count-mentions-per-user](https://github.com/Adityaroy000/DSA-CODES/tree/master/3721-count-mentions-per-user) |
 ## Counting
 |  |
 | ------- |
