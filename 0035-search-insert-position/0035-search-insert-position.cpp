@@ -10,9 +10,9 @@ public:
                 return mid;
             }else if(nums[mid]<target){
                 ans = mid;
-                low++;
+                low = mid+1;
             }else{
-                high--;
+                high = mid-1;
             }
         }
         return ans+1;
