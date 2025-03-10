@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Adityaroy000/DSA-CODES/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/Adityaroy000/DSA-CODES/tree/master/1127-last-stone-weight) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Adityaroy000/DSA-CODES/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Adityaroy000/DSA-CODES/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Adityaroy000/DSA-CODES/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/1646-kth-missing-positive-number) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/0560-subarray-sum-equals-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Adityaroy000/DSA-CODES/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0239-sliding-window-maximum) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Adityaroy000/DSA-CODES/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
