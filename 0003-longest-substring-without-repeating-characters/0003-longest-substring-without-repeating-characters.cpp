@@ -5,13 +5,16 @@ public:
         if(n==0) return 0;
         int maxlen = 0;
         int l = 0,r = 0;
-        unordered_map<char,int>mpp;
+        int hasmap[256];
+        fill(hasmap, hasmap + 256, -1);
         while(r<n){
-            if(mpp.find(s[r])!=mpp.end()){
-                l = max(l,mpp[s[r]]+1);
+            if(hasmap[s[r]] != -1){
+                if(hasmap[s[r]]>=l){
+                    l = hasmap[s[r]]+1;
+                }
             }
             maxlen = max(maxlen, r-l+1);
-            mpp[s[r]] = r; 
+            hasmap[s[r]] = r;
             r++;
         }
         return maxlen;
