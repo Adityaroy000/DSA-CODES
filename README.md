@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Adityaroy000/DSA-CODES/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Adityaroy000/DSA-CODES/tree/master/0127-word-ladder) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Adityaroy000/DSA-CODES/tree/master/0020-valid-parentheses) |
 | [0126-word-ladder-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Adityaroy000/DSA-CODES/tree/master/0127-word-ladder) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0239-sliding-window-maximum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Adityaroy000/DSA-CODES/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
