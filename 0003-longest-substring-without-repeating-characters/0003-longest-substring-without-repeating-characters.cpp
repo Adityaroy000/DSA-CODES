@@ -5,16 +5,14 @@ public:
         if(n==0) return 0;
         int maxlen = 0;
         int l = 0,r = 0;
-        unordered_set<char>st;
+        unordered_map<char,int>mpp;
         while(r<n){
-            if(st.find(s[r])==st.end()){
-                st.insert(s[r]);
-                maxlen = max(maxlen, r-l+1);
-                r++;
-            }else{
-                st.erase(s[l]);
-                l++;
+            if(mpp.find(s[r])!=mpp.end()){
+                l = max(l,mpp[s[r]]+1);
             }
+            maxlen = max(maxlen, r-l+1);
+            mpp[s[r]] = r; 
+            r++;
         }
         return maxlen;
     }
