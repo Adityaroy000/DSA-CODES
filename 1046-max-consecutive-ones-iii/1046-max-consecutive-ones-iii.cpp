@@ -6,13 +6,14 @@ public:
         int maxlen  = 0,len = 0,cntz = 0;
         while(r<n){
             if(nums[r]==0) cntz++;
-            if(cntz>k){
-                while(l<n-1 && nums[l]!= 0) l++;
+            while(cntz>k){
+                if(nums[l]==0) cntz--;
                 l++;
-                cntz--;
             } 
-            len = r-l+1;
-            maxlen = max(len,maxlen);
+            if(cntz<=k){
+                len = r-l+1;
+                maxlen = max(len,maxlen);
+            }
             r++;
         }
         return maxlen;
