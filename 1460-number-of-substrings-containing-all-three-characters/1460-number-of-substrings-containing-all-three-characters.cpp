@@ -2,22 +2,16 @@ class Solution {
 public:
     int numberOfSubstrings(string s) {
         int n = s.length();
-        int cnt  = 0,ans = 0;
-        int l = 0,r = 0;
-        unordered_map<char,int>mpp;
-        while(r<n){
-            mpp[s[r]]++;
-            
-            while(mpp.size()==3){
-                ans++;
-                ans += n-r-1;
-                mpp[s[l]]--;
-                if(mpp[s[l]]==0) mpp.erase(s[l]);
-                l++;
+        int cnt  = 0;
+        int arr[3] ={-1,-1,-1};
+        for(int i = 0; i<n; i++){
+            arr[s[i]-'a'] = i;
+            if(arr[0] != -1 && arr[1] != -1 && arr[2] != -1){
+                cnt = cnt+(1 + min(arr[0],min(arr[1],arr[2])));
             }
-            r++;
         }
+        
             
-        return ans;
+        return cnt;
     }
 };
