@@ -1,30 +1,32 @@
 class Solution {
-public:
-    int numberOfSubarrays(vector<int>& nums, int k) {
+private:
+    int atmost(vector<int>& nums, int k){
         int n = nums.size();
         int l=0,r=0,cnt=0;
-        int ocnt = 0,cntf=0,cntk=0,focc =-1,fkocc=-1;
+        int odd = 0;
         while(r<n){
             if(nums[r]%2!=0){
-                cnt++;
-                if(cntf<1) focc = r;
-                cntf++;
+                odd++;
             }
-            while(cnt>k){
+            while(odd>k){
                 if(nums[l]%2!=0){
-                    cnt--;
-                    l++;
-                    focc = l;
-                }else{
-                    l++;
+                    odd--;
                 }
+                l++;
             }
-            if(cnt == k){
-                while(nums[focc]%2==0) focc++;
-                ocnt += focc - l+1;
+            if(odd <= k){
+                cnt += (r-l+1);
             }
             r++;
         }
-        return ocnt;
+        return cnt;
+    }
+public:
+    int numberOfSubarrays(vector<int>& nums, int k) {
+        int n = nums.size();
+        int atmostk = atmost(nums,k);
+        int atmostkm1 = atmost(nums,k-1);
+        
+        return atmostk - atmostkm1;
     }
 };
