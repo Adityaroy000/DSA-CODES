@@ -1,18 +1,31 @@
 class Solution {
+private:
+    int sumlessg(vector<int>& nums, int goal){
+        int n = nums.size();
+        int l = 0,r = 0;
+        int cnt  = 0,sum = 0;
+        while(r<n){
+            sum += nums[r];
+            while(sum > goal && l<r){
+                sum -= nums[l];
+                l++;
+            }
+            if(sum <=goal){
+                cnt = cnt+(r-l+1);
+            }
+            r++;
+        }
+        return cnt ;
+    }
+
+    
 public:
     int numSubarraysWithSum(vector<int>& nums, int goal) {
         int n = nums.size();
-        unordered_map<int,int>mpp;
-        int sum = 0,cnt = 0;
-        mpp[0] = 1;
-        for(int i = 0;i<n;i++){
-            sum+=nums[i];
-            int rem = sum-goal;
-            if(mpp.find(rem)!=mpp.end()){
-                cnt += mpp[rem];
-            }
-            mpp[sum]++;
-        }
+        //no of subarray with sum <= goal
+        int sltg = sumlessg(nums,goal);
+        int sltgm1 = sumlessg(nums,goal-1);
+        int cnt = sltg - sltgm1;
         return cnt;
     }
 };
