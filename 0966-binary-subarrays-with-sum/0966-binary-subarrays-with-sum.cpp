@@ -17,14 +17,14 @@ private:
         }
         return cnt ;
     }
-
-    
 public:
     int numSubarraysWithSum(vector<int>& nums, int goal) {
         int n = nums.size();
         //no of subarray with sum <= goal
         int sltg = sumlessg(nums,goal);
+        //no of subarray with sum <= goal-1
         int sltgm1 = sumlessg(nums,goal-1);
+        //subtracting both will give us the sum == goal 
         int cnt = sltg - sltgm1;
         return cnt;
     }
