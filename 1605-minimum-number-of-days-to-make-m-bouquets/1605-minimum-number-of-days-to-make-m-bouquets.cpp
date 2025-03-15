@@ -18,13 +18,13 @@ public:
                     }
                 }
                 else cnt = 0;
+                if(nob>=m) break;
             }
             if(nob >= m){
                 mindays = mid;
                 high = mid-1;
             }else low = mid+1;
         }
-        if(mindays == -1) return -1;
-        else return mindays;
+        return mindays;
     }
 };
