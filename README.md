@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Adityaroy000/DSA-CODES/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Adityaroy000/DSA-CODES/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Adityaroy000/DSA-CODES/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Adityaroy000/DSA-CODES/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/0268-missing-number) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Adityaroy000/DSA-CODES/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Adityaroy000/DSA-CODES/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Adityaroy000/DSA-CODES/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Adityaroy000/DSA-CODES/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityaroy000/DSA-CODES/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -611,4 +613,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Adityaroy000/DSA-CODES/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
