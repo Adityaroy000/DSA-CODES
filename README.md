@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Adityaroy000/DSA-CODES/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaroy000/DSA-CODES/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Adityaroy000/DSA-CODES/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/0496-next-greater-element-i) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Adityaroy000/DSA-CODES/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/Adityaroy000/DSA-CODES/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0967-minimum-falling-path-sum) |
