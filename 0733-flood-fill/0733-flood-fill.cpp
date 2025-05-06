@@ -1,5 +1,16 @@
 class Solution {
 public:
+    void dfs(int sr,int sc,int drow[],int dcol[],vector<vector<int>>& ans, vector<vector<int>>& vis,int color,int oc){
+        vis[sr][sc] = 1;
+        ans[sr][sc] = color;
+        for(int i =0;i<4;i++){
+            int nrid = sr+drow[i];
+            int ncid = sc+dcol[i];
+            if(nrid<ans.size()&&nrid>=0&&ncid<ans[0].size()&&ncid>=0&&!vis[nrid][ncid] && ans[nrid][ncid]==oc){
+                dfs(nrid,ncid,drow,dcol,ans,vis,color,oc);
+            }
+        }
+    }
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
         int m = image.size();
         int n = image[0].size();
@@ -8,25 +19,8 @@ public:
         int oc = image[sr][sc];
         int drow[] = {-1,0,1,0};
         int dcol[] = {0,1,0,-1};
-        queue<pair<int,int>>q;
-        q.push({sr,sc});
-        vis[sr][sc] = 1;
-        ans[sr][sc] = color;
-        while(!q.empty()){
-            auto it = q.front();
-            int rid = it.first;
-            int cid = it.second;
-            q.pop();
-            for(int i =0;i<4;i++){
-                int nrid = rid+drow[i];
-                int ncid = cid+dcol[i];
-                 if(nrid<m&&nrid>=0&&ncid<n&&ncid>=0&&image[nrid][ncid]==oc&&vis[nrid][ncid]==0){
-                    vis[nrid][ncid]=1;
-                    q.push({nrid,ncid});
-                    ans[nrid][ncid] = color;
-                }
-            }
-        }
+        dfs(sr,sc,drow,dcol,ans,vis,color,oc);
+
         return ans;
     }
 };
