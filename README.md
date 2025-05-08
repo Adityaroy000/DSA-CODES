@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Adityaroy000/DSA-CODES/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Adityaroy000/DSA-CODES/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3721-count-mentions-per-user](https://github.com/Adityaroy000/DSA-CODES/tree/master/3721-count-mentions-per-user) |
 ## Hash Table
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Adityaroy000/DSA-CODES/tree/master/1073-number-of-enclaves) |
 | [2047-find-a-peak-element-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/2047-find-a-peak-element-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Math
 |  |
 | ------- |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Adityaroy000/DSA-CODES/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Adityaroy000/DSA-CODES/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Adityaroy000/DSA-CODES/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Adityaroy000/DSA-CODES/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -662,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Adityaroy000/DSA-CODES/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Memoization
 |  |
 | ------- |
