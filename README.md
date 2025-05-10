@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Adityaroy000/DSA-CODES/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Adityaroy000/DSA-CODES/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Adityaroy000/DSA-CODES/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Adityaroy000/DSA-CODES/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Adityaroy000/DSA-CODES/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Adityaroy000/DSA-CODES/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Adityaroy000/DSA-CODES/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Adityaroy000/DSA-CODES/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sliding Window
 |  |
 | ------- |
