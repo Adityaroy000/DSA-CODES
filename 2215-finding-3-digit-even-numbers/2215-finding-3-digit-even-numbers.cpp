@@ -10,7 +10,11 @@ public:
         sort(digits.begin(),digits.end());
         int maxEle = digits[n-1];
         int limit = maxEle*100 + maxEle*10 + maxEle;
-        for(int i = 100;i<=limit;i++){
+        int minEle = digits[0];
+        int low = 0;
+        if(minEle == 0) low = 100;
+        else low = minEle*100 + minEle*10 + minEle;
+        for(int i = low;i<=limit;i++){
             int temp = i;
             if(i%2==0){
                 vector<int>threeDigit;
