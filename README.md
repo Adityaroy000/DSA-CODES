@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/2215-finding-3-digit-even-numbers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Adityaroy000/DSA-CODES/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2050-count-good-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/2050-count-good-numbers) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Adityaroy000/DSA-CODES/tree/master/3637-count-number-of-balanced-permutations) |
 | [3721-count-mentions-per-user](https://github.com/Adityaroy000/DSA-CODES/tree/master/3721-count-mentions-per-user) |
 ## Simulation
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Adityaroy000/DSA-CODES/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0967-minimum-falling-path-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Adityaroy000/DSA-CODES/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Adityaroy000/DSA-CODES/tree/master/3637-count-number-of-balanced-permutations) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Adityaroy000/DSA-CODES/tree/master/3833-merge-operations-for-minimum-travel-time) |
 ## Sorting
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Adityaroy000/DSA-CODES/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Adityaroy000/DSA-CODES/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -423,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Adityaroy000/DSA-CODES/tree/master/0721-accounts-merge) |
 | [0868-push-dominoes](https://github.com/Adityaroy000/DSA-CODES/tree/master/0868-push-dominoes) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Adityaroy000/DSA-CODES/tree/master/3637-count-number-of-balanced-permutations) |
 ## Monotonic Stack
 |  |
