@@ -1,37 +1,41 @@
 class Solution {
 public:
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
-        int r = mat.size();
-        int c = mat[0].size();
-        vector<vector<int>>vis(r,vector<int>(c,0));
-        vector<vector<int>>ans(r,vector<int>(c,0));
-        int drow[] = {-1,0,1,0};
-        int dcol[] = {0,1,0,-1};
-        queue<pair<pair<int,int>,int>>q;
+        int m = mat.size();
+        int n = mat[0].size();
 
-        for(int i = 0; i<r; i++){
-            for(int j = 0; j<c; j++){
-                if(mat[i][j]==0){
+        vector<vector<int>>vis(m,(vector<int>(n,0)));
+        vector<vector<int>>dist(m,(vector<int>(n,0)));
+
+        queue<pair<pair<int,int>,int>>q;
+        for(int i = 0;i<m;i++){
+            for(int j = 0;j<n;j++){
+                if(mat[i][j]==0) {
+                    dist[i][j] = 0;
                     q.push({{i,j},0});
                     vis[i][j] = 1;
                 }
             }
         }
+        int drow[] = {-1,0,1,0};
+        int dcol[] = {0,1,0,-1};
         while(!q.empty()){
-            int rid = q.front().first.first;
-            int cid = q.front().first.second;
-            int d = q.front().second;
+            auto it = q.front();
+            int rid = it.first.first;
+            int cid = it.first.second;
+            int step = it.second;
             q.pop();
-            ans[rid][cid] = d;
-            for(int i = 0;i<4;i++){
-                int nrow = rid+drow[i];
-                int ncol = cid+dcol[i];
-                if(nrow<r && nrow>=0 && ncol<c &&ncol>=0 && mat[nrow][ncol]==1 &&vis[nrow][ncol]!=1){
-                    vis[nrow][ncol] = 1;
-                    q.push({{nrow,ncol},d+1});
+            for(int i=0;i<4;i++){
+                int nrid = rid+drow[i];
+                int ncid = cid+dcol[i];
+
+                if(nrid>=0 && nrid<m && ncid >= 0 && ncid <n && !vis[nrid][ncid] && mat[nrid][ncid]==1){
+                    vis[nrid][ncid] = 1;
+                    dist[nrid][ncid] = step+1;
+                    q.push({{nrid,ncid},step+1});
                 }
             }
         }
-        return ans;
+        return dist;
     }
 };
