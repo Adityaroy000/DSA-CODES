@@ -1,45 +1,40 @@
 class Solution {
-private: 
-    void dfs(int row,int col,int drow[],int dcol[],vector<vector<int>>& vis,vector<vector<char>>& board){
+public:
+    int m,n;
+    void dfs(int row,int col,vector<vector<int>>& vis,vector<vector<char>>& board){
         vis[row][col] = 1;
-        for(int i = 0; i<4; i++){
-            int nrow = row+drow[i];
-            int ncol = col+dcol[i];
-            if(nrow<board.size() && nrow>=0 && ncol<board[0].size() && ncol>=0 && board[nrow][ncol]=='O'&&vis[nrow][ncol]==0){
-                dfs(nrow,ncol,drow,dcol,vis,board);
+
+        int drow[] = {-1,0,1,0};
+        int dcol[] = {0,1,0,-1};
+
+        for(int i=0;i<4;i++){
+            int nrid = row+drow[i];
+            int ncid = col+dcol[i];
+            if(nrid<m&&nrid>=0&&ncid<n&&ncid>=0&&board[nrid][ncid]=='O'&&vis[nrid][ncid]==0){
+                dfs(nrid,ncid,vis,board);
             }
         }
     }
-public:
     void solve(vector<vector<char>>& board) {
-        int r = board.size();
-        int c = board[0].size();
-        int drow[] = {-1,0,1,0};
-        int dcol[] = {0,1,0,-1};
-        vector<vector<int>>vis(r,vector<int>(c,0));
-        //first and last row
-        for(int j = 0; j<c; j++){
-            if(board[0][j]=='O' && vis[0][j]==0){
-                dfs(0,j,drow,dcol,vis,board);
-            }
-            if(board[r-1][j]=='O' && vis[r-1][j]==0){
-                dfs(r-1,j,drow,dcol,vis,board);
-            }
-        }
-        // first and last column
-        for(int i = 0; i<r; i++){
-            if(board[i][0]=='O'&&vis[i][0]==0){
-                dfs(i,0,drow,dcol,vis,board);
-            }
-            if(board[i][c-1]=='O'&&vis[i][c-1]==0){
-                dfs(i,c-1,drow,dcol,vis,board);
-            }
-        }
+        m = board.size();
+        n = board[0].size();
+
         
-        for(int i = 0; i<r; i++){
-            for(int j = 0; j<c; j++){
-                if(vis[i][j]==0 && board[i][j]!='X'){
-                    board[i][j] = 'X';
+        vector<vector<int>>vis(m,vector<int>(n,0));
+
+        queue<pair<int,int>>q;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if((i==0 || i== m-1 || j==0 || j==n-1) && board[i][j]=='O'&&vis[i][j]==0){
+                    dfs(i,j,vis,board);
+                }
+            }
+        }
+
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(board[i][j]=='O' && vis[i][j]==0){
+                    board[i][j]='X';
                 }
             }
         }
