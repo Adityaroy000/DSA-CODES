@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Adityaroy000/DSA-CODES/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Adityaroy000/DSA-CODES/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Adityaroy000/DSA-CODES/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Adityaroy000/DSA-CODES/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Adityaroy000/DSA-CODES/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0967-minimum-falling-path-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Adityaroy000/DSA-CODES/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Adityaroy000/DSA-CODES/tree/master/3637-count-number-of-balanced-permutations) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Adityaroy000/DSA-CODES/tree/master/0721-accounts-merge) |
 | [0868-push-dominoes](https://github.com/Adityaroy000/DSA-CODES/tree/master/0868-push-dominoes) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Adityaroy000/DSA-CODES/tree/master/3637-count-number-of-balanced-permutations) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Adityaroy000/DSA-CODES/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Adityaroy000/DSA-CODES/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Adityaroy000/DSA-CODES/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Adityaroy000/DSA-CODES/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sliding Window
 |  |
