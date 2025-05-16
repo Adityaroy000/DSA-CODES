@@ -1,24 +1,22 @@
 class Solution {
 public:
-    int n;
-    int seq(int prev,int i,vector<int>& nums, vector<vector<int>>& dp){
-        if(i==n){
-            return 0;
-        }
-
-        if(prev != -1 && dp[prev][i]!= -1) return dp[prev][i];
-
-        int take = 0;
-        if(prev == -1 || nums[i]>nums[prev]){
-            take = 1+seq(i,i+1,nums,dp);
-        }
-        int nottake = seq(prev,i+1,nums,dp);
-        if(prev!= -1) dp[prev][i] = max(take,nottake);
-        return max(take,nottake);
-    }
     int lengthOfLIS(vector<int>& nums) {
-        n = nums.size();
-        vector<vector<int>>dp(n+1,vector<int>(n,-1));
-        return seq(-1,0,nums,dp);
+        int n = nums.size();
+        vector<int>dp(n,1);
+
+        int i=1;
+        while(i<n){
+            int j=0;
+            while(j<i){
+                if(nums[i]>nums[j]){
+                    int len = 1+dp[j];
+                    dp[i] = max(dp[i],len);
+                }
+                j++;
+            }
+            i++;
+        }
+
+        return *max_element(dp.begin(),dp.end());
     }
 };
