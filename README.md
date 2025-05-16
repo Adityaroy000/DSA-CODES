@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Adityaroy000/DSA-CODES/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Adityaroy000/DSA-CODES/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Adityaroy000/DSA-CODES/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Adityaroy000/DSA-CODES/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Adityaroy000/DSA-CODES/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Adityaroy000/DSA-CODES/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Adityaroy000/DSA-CODES/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Adityaroy000/DSA-CODES/tree/master/1073-number-of-enclaves) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Adityaroy000/DSA-CODES/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2047-find-a-peak-element-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/2047-find-a-peak-element-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Adityaroy000/DSA-CODES/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Adityaroy000/DSA-CODES/tree/master/1073-number-of-enclaves) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Adityaroy000/DSA-CODES/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Adityaroy000/DSA-CODES/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Binary Search Tree
 |  |
