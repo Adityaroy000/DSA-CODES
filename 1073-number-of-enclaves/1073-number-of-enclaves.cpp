@@ -1,47 +1,42 @@
 class Solution {
-private:
-    void bfs(vector<vector<int>>& vis,vector<vector<int>>& grid,queue<pair<int,int>>q){
+public:
+    void dfs(int row,int col,vector<vector<int>>& grid,vector<vector<bool>>& vis){
         int drow[] = {-1,0,1,0};
         int dcol[] = {0,1,0,-1};
-        while(!q.empty()){
-            int rid = q.front().first;
-            int cid = q.front().second;
-            q.pop();
-            for(int i = 0; i<4; i++){
-                int nrow = rid+drow[i];
-                int ncol = cid+dcol[i];
-                if(nrow<grid.size() && nrow>=0 && ncol<grid[0].size() && ncol>=0 && vis[nrow][ncol]==0 && grid[nrow][ncol]==1){
-                    vis[nrow][ncol]=1;
-                    q.push({nrow,ncol});
-                }
+        vis[row][col] = true;
+
+        for(int i=0;i<4;i++){
+            int nrid = row+drow[i];
+            int ncid = col+dcol[i];
+
+            if(nrid<0 || ncid<0 || nrid>=grid.size() || ncid>=grid[0].size()) continue;
+
+            if(grid[nrid][ncid]==1 && !vis[nrid][ncid]){
+                dfs(nrid,ncid,grid,vis);
             }
         }
-    }
-public:
+
+}
     int numEnclaves(vector<vector<int>>& grid) {
-        int r = grid.size();
-        int c = grid[0].size();
-        vector<vector<int>>vis(r,vector<int>(c,0));
-        queue<pair<int,int>>q;
-        //boundary check
-        for(int i = 0; i<r; i++){
-            for(int j = 0; j<c; j++){
-                //first row,first col,last row,last col
-                if(i==0 || j==0|| i==r-1||j==c-1){
-                    if(grid[i][j]==1){
-                        q.push({i,j});
-                        vis[i][j]=1;
-                    }
+        int m = grid.size();
+        int n = grid[0].size();
+
+        vector<vector<bool>>vis(m,vector<bool>(n,false));
+
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if((i==0||i==m-1||j==0||j==n-1) && grid[i][j]==1 && !vis[i][j]){
+                    dfs(i,j,grid,vis);
                 }
             }
         }
-        bfs(vis,grid,q);
-        int count = 0;
-        for(int i = 0; i<r; i++){
-            for(int j = 0; j<c; j++){
-                if(grid[i][j]==1 && !vis[i][j]) count++;
+
+        int cnt = 0;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]==1 && vis[i][j]==false) cnt++;
             }
         }
-        return count;
+        return cnt;
     }
 };
