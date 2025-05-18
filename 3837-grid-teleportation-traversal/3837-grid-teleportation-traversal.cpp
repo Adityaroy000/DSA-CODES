@@ -32,7 +32,7 @@ public:
             auto [steps,row,col]= pq.top();
             pq.pop();
             if (row == m - 1 && col == n - 1) return steps;
-            if(steps>dist[row][col]) continue;
+            //if(steps>dist[row][col]) continue;
 
             char c = matrix[row][col];
             if(c>='A'&&c<='Z'&&!usedPortal[c-'A']){
