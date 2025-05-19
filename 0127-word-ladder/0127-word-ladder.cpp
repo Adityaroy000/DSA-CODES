@@ -24,20 +24,16 @@ public:
 
                 if(currWord == endWord) return countsteps;
 
-                for(auto &word:wordList){
-                    if(vis.find(word)==vis.end()){
-                        int charCount=0;
-
-                        for(int i=0;i<wordSize;i++){
-                            if(currWord[i]!=word[i]) charCount++;
-                        }
-
-                        if(charCount>1) continue;
-                        else{
-                            q.push(word);
-                            vis.insert(word);
+                for(int i=0;i<wordSize;i++){
+                    int originalChar = currWord[i];
+                    for(char ch ='a';ch<='z';ch++){
+                        currWord[i] = ch;
+                        if(vis.find(currWord)==vis.end() && st.find(currWord)!=st.end()){
+                            q.push(currWord);
+                            vis.insert(currWord);
                         }
                     }
+                    currWord[i] = originalChar;
                 }
             }
             countsteps++;
