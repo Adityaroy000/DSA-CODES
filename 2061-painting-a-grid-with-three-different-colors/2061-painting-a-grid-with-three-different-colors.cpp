@@ -1,66 +1,51 @@
 class Solution {
-public:
-    static constexpr int mod = 1000000007;
-    int colorTheGrid(int m, int n) {
-        unordered_map<int, vector<int>> valid;
-        int mask_end = pow(3, m);
-        for (int mask = 0; mask < mask_end; ++mask) {
-            vector<int> color;
-            int mm = mask;
-            for (int i = 0; i < m; ++i) {
-                color.push_back(mm % 3);
-                mm /= 3;
-            }
-            bool check = true;
-            for (int i = 0; i < m - 1; ++i) {
-                if (color[i] == color[i + 1]) {
-                    check = false;
+public: 
+    int mod = 1e9+7;
+    vector<string>columnStates;
+    void generateColumnStates(string curr,int len,char prevChar,int m){
+        if(len==m){
+            columnStates.push_back(curr);
+            return;
+        }
+        for(char ch:{'R','G','B'}){
+            if(ch==prevChar) continue;
+            generateColumnStates(curr+ch,len+1,ch,m);
+        }
+    }
+
+    int solve(int m,int prevcol,int remcol,vector<vector<int>>& dp){
+        if(remcol == 0) return 1;
+
+        string prev = columnStates[prevcol];
+        int ways = 0;
+
+        if(dp[prevcol][remcol]!=-1) return dp[prevcol][remcol];
+
+        for(int i=0;i<columnStates.size();i++){
+            string curr = columnStates[i];
+            bool valid = true;
+            for(int j=0;j<m;j++){
+                if(curr[j]==prev[j]) {
+                    valid = false;
                     break;
                 }
             }
-            if (check) {
-                valid[mask] = move(color);
+            if(valid){
+                ways = (ways+solve(m,i,remcol-1,dp))%mod;
             }
         }
-        unordered_map<int, vector<int>> adjacent;
-        for (const auto& [mask1, color1] : valid) {
-            for (const auto& [mask2, color2] : valid) {
-                bool check = true;
-                for (int i = 0; i < m; ++i) {
-                    if (color1[i] == color2[i]) {
-                        check = false;
-                        break;
-                    }
-                }
-                if (check) {
-                    adjacent[mask1].push_back(mask2);
-                }
-            }
+        return dp[prevcol][remcol] = ways;
+    }
+
+    int colorTheGrid(int m, int n) {
+        generateColumnStates("",0,'#',m);
+        int res = 0;
+        int totsalstates = columnStates.size();
+        vector<vector<int>>dp(totsalstates,vector<int>(n,-1));
+        for(int col = 0;col<columnStates.size();col++){
+            res = (res+solve(m,col,n-1,dp))%mod;
         }
-        
-        vector<int> f(mask_end);
-        for (const auto& [mask, _] : valid) {
-            f[mask] = 1;
-        }
-        for (int i = 1; i < n; ++i) {
-            vector<int> g(mask_end);
-            for (const auto& [mask2, _] : valid) {
-                for (int mask1 : adjacent[mask2]) {
-                    g[mask2] += f[mask1];
-                    if (g[mask2] >= mod) {
-                        g[mask2] -= mod;
-                    }
-                }
-            }
-            f = move(g);
-        }
-        int ans = 0;
-        for (int num : f) {
-            ans += num;
-            if (ans >= mod) {
-                ans -= mod;
-            }
-        }
-        return ans;
+
+        return res;
     }
 };
