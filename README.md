@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Adityaroy000/DSA-CODES/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Adityaroy000/DSA-CODES/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Adityaroy000/DSA-CODES/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Adityaroy000/DSA-CODES/tree/master/3321-type-of-triangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Adityaroy000/DSA-CODES/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Adityaroy000/DSA-CODES/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Adityaroy000/DSA-CODES/tree/master/3637-count-number-of-balanced-permutations) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Adityaroy000/DSA-CODES/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/2215-finding-3-digit-even-numbers) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Adityaroy000/DSA-CODES/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Adityaroy000/DSA-CODES/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3647-zero-array-transformation-iii) |
 | [3721-count-mentions-per-user](https://github.com/Adityaroy000/DSA-CODES/tree/master/3721-count-mentions-per-user) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Adityaroy000/DSA-CODES/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Adityaroy000/DSA-CODES/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Adityaroy000/DSA-CODES/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3647-zero-array-transformation-iii) |
 ## Sliding Window
 |  |
@@ -559,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Adityaroy000/DSA-CODES/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
 |  |
 | ------- |
@@ -586,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Adityaroy000/DSA-CODES/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adityaroy000/DSA-CODES/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Adityaroy000/DSA-CODES/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Depth-First Search
 |  |
 | ------- |
