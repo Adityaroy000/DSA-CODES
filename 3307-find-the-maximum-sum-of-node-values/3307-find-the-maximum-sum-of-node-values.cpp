@@ -14,15 +14,19 @@ public:
                 cnt++;
                 sum += (long long)(nums[i]^k);
             }else{
+                
                 sum +=(long long)nums[i];
             }
             nuksan = min(nuksan,abs(nums[i]-(nums[i]^k)));
         }
 
+        int osum = accumulate(nums.begin(),nums.end(),0LL);
         if(cnt%2 != 0){
             return sum-(long long)nuksan;
+        }else if(sum>osum){
+            return sum;
         }
 
-        return sum;
+        return osum;
     }
 };
