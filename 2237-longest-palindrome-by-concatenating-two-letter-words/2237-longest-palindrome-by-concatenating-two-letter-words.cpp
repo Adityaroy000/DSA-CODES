@@ -8,7 +8,7 @@ public:
             string rev = word;
             swap(rev[0],rev[1]);
 
-            if(mpp[rev]>0){
+            if(mpp.find(rev)!=mpp.end() && mpp[rev]>0){
                 len += 4;
                 mpp[rev]--;
             }else{
