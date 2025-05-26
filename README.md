@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Adityaroy000/DSA-CODES/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Adityaroy000/DSA-CODES/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Adityaroy000/DSA-CODES/tree/master/0868-push-dominoes) |
 | [0943-sum-of-subarray-minimums](https://github.com/Adityaroy000/DSA-CODES/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0967-minimum-falling-path-sum) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Adityaroy000/DSA-CODES/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Adityaroy000/DSA-CODES/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Adityaroy000/DSA-CODES/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Adityaroy000/DSA-CODES/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Adityaroy000/DSA-CODES/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Adityaroy000/DSA-CODES/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Adityaroy000/DSA-CODES/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Adityaroy000/DSA-CODES/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/Adityaroy000/DSA-CODES/tree/master/1039-find-the-town-judge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Adityaroy000/DSA-CODES/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Adityaroy000/DSA-CODES/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Adityaroy000/DSA-CODES/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -754,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Adityaroy000/DSA-CODES/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Adityaroy000/DSA-CODES/tree/master/0820-find-eventual-safe-states) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Adityaroy000/DSA-CODES/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Adityaroy000/DSA-CODES/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
@@ -765,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/0070-climbing-stairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Adityaroy000/DSA-CODES/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Combinatorics
 |  |
 | ------- |
