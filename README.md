@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Adityaroy000/DSA-CODES/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0967-minimum-falling-path-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Adityaroy000/DSA-CODES/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Adityaroy000/DSA-CODES/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Adityaroy000/DSA-CODES/tree/master/1039-find-the-town-judge) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Adityaroy000/DSA-CODES/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Adityaroy000/DSA-CODES/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Adityaroy000/DSA-CODES/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/Adityaroy000/DSA-CODES/tree/master/1039-find-the-town-judge) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Adityaroy000/DSA-CODES/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Adityaroy000/DSA-CODES/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
