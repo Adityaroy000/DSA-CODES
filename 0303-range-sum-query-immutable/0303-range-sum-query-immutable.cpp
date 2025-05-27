@@ -3,14 +3,20 @@ public:
     vector<int>arr;
     NumArray(vector<int>& nums) {
         arr = nums;
+        int sum = 0;
+        for(int i=0;i<nums.size();i++){
+            sum += nums[i];
+            arr[i] = sum;
+        }
     }
     
     int sumRange(int left, int right) {
-        int sum = 0;
-        for(int i=left;i<=right;i++){
-            sum += arr[i];
+        if(left == 0){
+            return arr[right];
+        }else{
+            return arr[right]-arr[left-1];
         }
-        return sum;
+
     }   
 };
 
