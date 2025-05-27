@@ -632,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adityaroy000/DSA-CODES/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0310-minimum-height-trees) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Adityaroy000/DSA-CODES/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityaroy000/DSA-CODES/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Adityaroy000/DSA-CODES/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Adityaroy000/DSA-CODES/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0310-minimum-height-trees) |
 | [0542-01-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Adityaroy000/DSA-CODES/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityaroy000/DSA-CODES/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Adityaroy000/DSA-CODES/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Adityaroy000/DSA-CODES/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0310-minimum-height-trees) |
 | [0547-number-of-provinces](https://github.com/Adityaroy000/DSA-CODES/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Adityaroy000/DSA-CODES/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/Adityaroy000/DSA-CODES/tree/master/0813-all-paths-from-source-to-target) |
@@ -758,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Adityaroy000/DSA-CODES/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/Adityaroy000/DSA-CODES/tree/master/0820-find-eventual-safe-states) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Adityaroy000/DSA-CODES/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Adityaroy000/DSA-CODES/tree/master/2090-number-of-ways-to-arrive-at-destination) |
