@@ -1,27 +1,71 @@
 class Solution {
 public:
-   vector<vector<int>> buildList(const vector<vector<int>>& edges) {
-        vector<vector<int>> adj(edges.size() + 1);
-        for (auto &e : edges) {
-            adj[e[0]].push_back(e[1]);
-            adj[e[1]].push_back(e[0]);
+    int n,m;
+    void bfs(int node, vector<vector<int>>& adj,vector<int>& dist){
+        queue<pair<int,int>>q;
+        int s = adj.size();
+        vector<int>vis(s,0);
+        q.push({node,0});
+        vis[node] = 1;
+        dist[node] = 0;
+
+        while(!q.empty()){
+            auto [u,distance] = q.front();
+            q.pop();
+
+            for(auto& it:adj[u]){
+                if(!vis[it]){
+                    vis[it] = 1;
+                    q.push({it,distance+1});
+                    dist[it] = distance+1;
+                }
+            }
         }
-        return adj;
-    }
-    int dfs(const vector<vector<int>>& adj, int u, int p, int k) {
-        if (k < 0) return 0;
-        int cnt = 1;
-        for (int v : adj[u])
-            if (v != p) cnt += dfs(adj, v, u, k-1);
-        return cnt;
     }
     vector<int> maxTargetNodes(vector<vector<int>>& edges1, vector<vector<int>>& edges2, int k) {
-        auto adj1 = buildList(edges1), adj2 = buildList(edges2);
-        int n = adj1.size(), m = adj2.size(), maxiB = 0;
-        vector<int> res(n);
+        n = edges1.size()+1;
+        m = edges2.size()+1;
 
-        for (int i = 0; i < m; i++) maxiB = max(maxiB, dfs(adj2, i, -1, k - 1));
-        for (int i = 0; i < n; i++) res[i] = dfs(adj1, i, -1, k) + maxiB;
-        return res;
+        vector<vector<int>>adj1(n);
+        vector<vector<int>>adj2(m);
+
+        for(auto& it:edges1){
+            int u = it[0];
+            int v = it[1];
+            adj1[u].push_back(v);
+            adj1[v].push_back(u);
+        }
+        for(auto& it:edges2){
+            int u = it[0];
+            int v = it[1];
+            adj2[u].push_back(v);
+            adj2[v].push_back(u);
+        }
+        //for tree2
+        int maxi = 0;
+        for(int i=0;i<m;i++){
+            vector<int>dist2(m,-1);
+            bfs(i,adj2,dist2);
+
+            int cnt = 0;
+            for(int j=0;j<m;j++){
+                if(dist2[j]!= -1 && dist2[j]<=(k-1)) cnt++;
+            }
+            maxi = max(maxi,cnt);
+        }
+      
+        vector<int>ans(n);
+        for(int i=0;i<n;i++){
+            vector<int>dist(n,-1);
+            bfs(i,adj1,dist);
+
+            int cnt = 0;
+            for(int j=0;j<n;j++){
+                if(dist[j]!= -1 && dist[j]<=k) cnt++;
+            }
+
+            ans[i] = maxi+cnt;
+        }
+        return ans;
     }
 };
