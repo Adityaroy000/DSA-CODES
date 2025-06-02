@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityaroy000/DSA-CODES/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Adityaroy000/DSA-CODES/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/Adityaroy000/DSA-CODES/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Adityaroy000/DSA-CODES/tree/master/0162-find-peak-element) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Adityaroy000/DSA-CODES/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Adityaroy000/DSA-CODES/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Adityaroy000/DSA-CODES/tree/master/0621-task-scheduler) |
