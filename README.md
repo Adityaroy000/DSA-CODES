@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Adityaroy000/DSA-CODES/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Adityaroy000/DSA-CODES/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Adityaroy000/DSA-CODES/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Union Find
 |  |
 | ------- |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Adityaroy000/DSA-CODES/tree/master/3637-count-number-of-balanced-permutations) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -826,4 +828,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
