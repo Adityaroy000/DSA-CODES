@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Adityaroy000/DSA-CODES/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Adityaroy000/DSA-CODES/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/Adityaroy000/DSA-CODES/tree/master/0649-dota2-senate) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Adityaroy000/DSA-CODES/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## String
 |  |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0208-implement-trie-prefix-tree) |
 | [0402-remove-k-digits](https://github.com/Adityaroy000/DSA-CODES/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaroy000/DSA-CODES/tree/master/0424-longest-repeating-character-replacement) |
+| [0649-dota2-senate](https://github.com/Adityaroy000/DSA-CODES/tree/master/0649-dota2-senate) |
 | [0721-accounts-merge](https://github.com/Adityaroy000/DSA-CODES/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/Adityaroy000/DSA-CODES/tree/master/0753-open-the-lock) |
 | [0868-push-dominoes](https://github.com/Adityaroy000/DSA-CODES/tree/master/0868-push-dominoes) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Adityaroy000/DSA-CODES/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Adityaroy000/DSA-CODES/tree/master/0621-task-scheduler) |
+| [0649-dota2-senate](https://github.com/Adityaroy000/DSA-CODES/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/Adityaroy000/DSA-CODES/tree/master/0670-maximum-swap) |
 | [0876-hand-of-straights](https://github.com/Adityaroy000/DSA-CODES/tree/master/0876-hand-of-straights) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Adityaroy000/DSA-CODES/tree/master/1049-minimum-domino-rotations-for-equal-row) |
