@@ -4,7 +4,6 @@ public:
         string s = to_string(num);
         int n = s.size();
         
-        char x,y;
         char dig = '#';
         for(int i=0;i<n;i++){
             if(s[i]!='9'){
@@ -19,7 +18,6 @@ public:
             }
         }
         int maxi = stoi(temp);
-        int mini = INT_MAX;
         temp = s;
 
         if(temp[0]!= '1'){
@@ -41,7 +39,7 @@ public:
                 }
             }
         }
-        mini = stoi(temp);
+        int mini = stoi(temp);
         return maxi-mini;
     }
 };
