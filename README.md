@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Adityaroy000/DSA-CODES/tree/master/0735-asteroid-collision) |
 | [2048-build-array-from-permutation](https://github.com/Adityaroy000/DSA-CODES/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Adityaroy000/DSA-CODES/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Adityaroy000/DSA-CODES/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3721-count-mentions-per-user](https://github.com/Adityaroy000/DSA-CODES/tree/master/3721-count-mentions-per-user) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Adityaroy000/DSA-CODES/tree/master/0868-push-dominoes) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Adityaroy000/DSA-CODES/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
