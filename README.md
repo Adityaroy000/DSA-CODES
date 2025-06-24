@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Adityaroy000/DSA-CODES/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Adityaroy000/DSA-CODES/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Adityaroy000/DSA-CODES/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/0268-missing-number) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Adityaroy000/DSA-CODES/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Adityaroy000/DSA-CODES/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Adityaroy000/DSA-CODES/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityaroy000/DSA-CODES/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Adityaroy000/DSA-CODES/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0101-symmetric-tree) |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Adityaroy000/DSA-CODES/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0101-symmetric-tree) |
@@ -811,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Adityaroy000/DSA-CODES/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adityaroy000/DSA-CODES/tree/master/0230-kth-smallest-element-in-a-bst) |
