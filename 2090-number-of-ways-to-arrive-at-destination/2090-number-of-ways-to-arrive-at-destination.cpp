@@ -1,36 +1,49 @@
 class Solution {
 public:
+    int mod = 1e9+7;
     int countPaths(int n, vector<vector<int>>& roads) {
-        vector<vector<pair<int,long long>>>adj(n);
-        for(auto it : roads){
-            adj[it[0]].push_back({it[1],it[2]});
-            adj[it[1]].push_back({it[0],it[2]});
+        vector<vector<pair<int,int>>>adj(n);
+        for(auto &road : roads){
+            int u = road[0];
+            int v = road[1];
+            int wt = road[2];
+
+            adj[u].push_back({v,wt});
+            adj[v].push_back({u,wt});
         }
-        priority_queue<pair<long long,int>,vector<pair<long long,int>>,greater<pair<long long,int>>>pq;
-        pq.push({0,0});
-        vector<long long> dist(n,1e18),ways(n,0);
+
+        vector<long long>ways(n,0);
+        vector<long long>dist(n,LLONG_MAX);
+        priority_queue<pair<long long,long long>,vector<pair<long long,long long>>, greater<>>q;
+
         dist[0] = 0;
         ways[0] = 1;
-        int mod = (int)(1e9 + 7);
-        while(!pq.empty()){
-            long long dis = pq.top().first;
-            int node = pq.top().second;
-            pq.pop();
-            for(auto it : adj[node]){
-                int adjNode = it.first;
-                long long wt = it.second;
-                 // Found a shorter path to adjNode
-                if(dis+wt < dist[adjNode]){
-                    dist[adjNode] = dis+wt;
-                    pq.push({dis+wt,adjNode});
-                    ways[adjNode] = ways[node];
-                }
-                 // Found another way with the same shortest distance
-                else if(dis+wt == dist[adjNode]){
-                    ways[adjNode] = (ways[adjNode]+ways[node])%mod;
+
+        q.push({0,0});
+
+        while(!q.empty()){
+            long long wt = q.top().first;
+            int node = q.top().second;
+            q.pop();
+
+            if(wt>dist[node]) continue;
+
+            for(auto it:adj[node]){
+                int adjnode = it.first;
+                long long adjwt = it.second;
+
+                long long newdist = wt+adjwt;
+                if(dist[adjnode]>newdist){
+                    dist[adjnode] = newdist;
+                    ways[adjnode] = ways[node];
+                    q.push({newdist,adjnode});
+                }else if(newdist == dist[adjnode]){
+                    ways[adjnode] = (ways[adjnode]+ways[node])%mod;
                 }
             }
+
         }
-        return ways[n-1];
+
+        return ways[n-1]%mod;
     }
 };
