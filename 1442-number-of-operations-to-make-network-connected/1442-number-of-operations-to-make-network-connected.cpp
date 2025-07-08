@@ -1,50 +1,34 @@
-class DisjointSet{
-    vector<int>parent,sizes;
-    public:
-        DisjointSet(int n){
-            sizes.resize(n);
-            parent.resize(n);
-            for(int i = 0; i<n; i++){
-                parent[i] = i;
-                sizes[i] = 1;
-            }
-        }
-        int findup(int node){
-            if(node == parent[node]) return node;
-            return parent[node] = findup(parent[node]);
-        }
-        void unionBySize(int u,int v){
-            int ulp_u = findup(u);
-            int ulp_v = findup(v);
-            if(ulp_u == ulp_v) return;
-            if(sizes[ulp_u]<sizes[ulp_v]){
-                parent[ulp_u] = ulp_v;
-                sizes[ulp_v] += sizes[ulp_u];
-            }else{
-                parent[ulp_v] = ulp_u;
-                sizes[ulp_u] += sizes[ulp_v];
-            }
-        }
-};
 class Solution {
 public:
-    int makeConnected(int n, vector<vector<int>>& connections) {
-        DisjointSet ds(n);
-        int extra = 0;
-        
-        for(int i = 0; i<connections.size(); i++){
-            int u = connections[i][0];
-            int v = connections[i][1];
-            if(ds.findup(u) == ds.findup(v)){//if both have same ulp that means they are already in same component so they are connected to all the nodes in that component, and if there is a edge between those nodes that means it is an extra edge
-                extra++;
+
+    void dfs(int node,vector<int>& vis,vector<vector<int>>& adj){
+        vis[node] = 1;
+
+        for(auto &it: adj[node]){
+            if(!vis[it]){
+                dfs(it,vis,adj);
             }
-            ds.unionBySize(u,v);
         }
-        int nc = 0;
-        for(int i = 0;i<n; i++){
-            if(i == ds.findup(i)) nc++;//no of node who is parent of itself is the no of component
+    }
+    int makeConnected(int n, vector<vector<int>>& connections) {
+        if(connections.size() < n-1) return -1;
+
+        vector<vector<int>>adj(n);
+        for(auto &edge : connections){
+            int u = edge[0];
+            int v = edge[1];
+
+            adj[u].push_back(v);
+            adj[v].push_back(u);
         }
-        if(extra>=(nc-1)) return nc-1;
-        return -1;
+        int cnt = 0;
+        vector<int>vis(n,0);
+        for(int i=0;i<n;i++){
+            if(!vis[i]){
+                cnt++;
+                dfs(i,vis,adj);
+            }
+        }
+        return cnt-1;
     }
 };
