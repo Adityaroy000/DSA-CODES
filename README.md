@@ -547,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Adityaroy000/DSA-CODES/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/Adityaroy000/DSA-CODES/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0778-reorganize-string) |
+| [0800-letter-case-permutation](https://github.com/Adityaroy000/DSA-CODES/tree/master/0800-letter-case-permutation) |
 | [0868-push-dominoes](https://github.com/Adityaroy000/DSA-CODES/tree/master/0868-push-dominoes) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Adityaroy000/DSA-CODES/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0216-combination-sum-iii) |
+| [0800-letter-case-permutation](https://github.com/Adityaroy000/DSA-CODES/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/Adityaroy000/DSA-CODES/tree/master/0813-all-paths-from-source-to-target) |
 ## Bit Manipulation
 |  |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Adityaroy000/DSA-CODES/tree/master/0795-k-th-symbol-in-grammar) |
+| [0800-letter-case-permutation](https://github.com/Adityaroy000/DSA-CODES/tree/master/0800-letter-case-permutation) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Adityaroy000/DSA-CODES/tree/master/3307-find-the-maximum-sum-of-node-values) |
