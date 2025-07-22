@@ -25,17 +25,8 @@ public:
                 temp->next = newnode;
                 temp = newnode;
                 temp1 = temp1->next;
-            }else if(temp1->val > temp2->val){
+            }else {
                 ListNode* newnode = new ListNode(temp2->val);
-                temp->next = newnode;
-                temp = newnode;
-                temp2 = temp2->next;
-            }else{
-                ListNode* newnode = new ListNode(temp1->val);
-                temp->next = newnode;
-                temp = newnode;
-                temp1 = temp1->next;
-                newnode = new ListNode(temp2->val);
                 temp->next = newnode;
                 temp = newnode;
                 temp2 = temp2->next;
