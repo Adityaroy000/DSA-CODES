@@ -14,9 +14,8 @@ public:
         ListNode* temp1 = list1;
         ListNode* temp2 = list2;
 
-        ListNode* newlist = new ListNode(-1);
-        ListNode* dummyhead = newlist;
-        ListNode* temp = newlist;
+        ListNode* dummyhead = new ListNode(-1);
+        ListNode* temp = dummyhead;
 
 
         while(temp1 && temp2){
