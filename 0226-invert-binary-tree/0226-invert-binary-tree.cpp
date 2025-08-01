@@ -16,10 +16,18 @@ public:
             return NULL;
         }
         
-        TreeNode* newtree = new TreeNode(root->val);
-        newtree->left = invertTree(root->right);
-        newtree->right = invertTree(root->left);
+        queue<TreeNode*>q;
+        q.push(root);
+        while(!q.empty()){
+            TreeNode* curr = q.front();
+            q.pop();
 
-        return newtree;
+            swap(curr->left,curr->right);
+
+            if(curr->left) q.push(curr->left);
+            if(curr->right) q.push(curr->right);
+        }
+
+        return root;
     }
 };
