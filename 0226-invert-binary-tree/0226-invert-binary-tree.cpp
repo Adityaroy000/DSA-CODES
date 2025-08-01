@@ -15,10 +15,11 @@ public:
         if(!root){
             return NULL;
         }
-        swap(root->left,root->right);
-        invertTree(root->left);
-        invertTree(root->right);
+        
+        TreeNode* newtree = new TreeNode(root->val);
+        newtree->left = invertTree(root->right);
+        newtree->right = invertTree(root->left);
 
-        return root;
+        return newtree;
     }
 };
