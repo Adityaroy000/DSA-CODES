@@ -744,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Adityaroy000/DSA-CODES/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Adityaroy000/DSA-CODES/tree/master/2384-root-equals-sum-of-children) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Adityaroy000/DSA-CODES/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adityaroy000/DSA-CODES/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Adityaroy000/DSA-CODES/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
