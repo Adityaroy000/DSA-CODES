@@ -11,27 +11,20 @@
  */
 class Solution {
 public:
-    vector<string>ans;
-    void solve(TreeNode* root,string temp){
+    int sum = 0;
+    void solve(TreeNode* root,int curr){
         if(!root) return;
+        curr = curr*2 + root->val;
         if(!root->left && !root->right){
-            temp += to_string(root->val);
-            ans.push_back(temp);
+            sum += curr;
             return;
         }
-        temp += to_string(root->val);
-        solve(root->left,temp);
-        solve(root->right,temp);
+        
+        solve(root->left,curr);
+        solve(root->right,curr);
     }
     int sumRootToLeaf(TreeNode* root) {
-        string temp = "";
-        solve(root,temp);
-        
-        int sum = 0;
-        for(int i=0;i<ans.size();i++){
-            int number = stoi(ans[i], nullptr, 2); 
-            sum += number;
-        }
+        solve(root,0);
 
         return sum;
     }
