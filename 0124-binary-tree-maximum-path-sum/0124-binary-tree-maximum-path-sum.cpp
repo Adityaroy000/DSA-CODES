@@ -11,16 +11,25 @@
  */
 class Solution {
 public:
-    int maxi = INT_MIN;
-    int maxDepth(TreeNode* root) {
-        if(root==NULL) return 0;
-        int lh =max(0,maxDepth(root->left));
-        int rh = max(0,maxDepth(root->right));
-        maxi = max(maxi,lh+rh+root->val);
-        return root->val+max(lh,rh);
+    int maxsum;
+    int solve(TreeNode* root){
+        if(!root) return 0;
+
+        int l = solve(root->left);
+        int r = solve(root->right);
+
+        int koi_ek_achha =  max(l,r)+root->val;
+        int dono_achha = root->val+l+r;
+        int only_root_achha  = root->val;
+
+        maxsum = max({maxsum,koi_ek_achha,dono_achha,only_root_achha});
+
+        return max(koi_ek_achha,only_root_achha); 
     }
     int maxPathSum(TreeNode* root) {
-        maxDepth(root);
-        return maxi;
+        maxsum = INT_MIN;
+        solve(root);
+
+        return maxsum;
     }
 };
