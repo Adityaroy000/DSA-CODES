@@ -11,15 +11,18 @@
  */
 class Solution {
 public:
-    bool ismirror(TreeNode* left,TreeNode* right){
-        if(!left&&!right) return true;
-        if(!left||!right) return false;
-        if(left->val != right->val) return false;
-        return ismirror(left->left,right->right)&&ismirror(left->right,right->left);
+    bool solve(TreeNode* p, TreeNode* q){
+        if(!p && !q) return true;
+        if(!p || !q) return false;
+        
+        if(p->val != q->val) return false;
+
+        return solve(p->left,q->right) && solve(p->right,q->left);
     }
     bool isSymmetric(TreeNode* root) {
         if(!root) return true;
-        
-        return ismirror(root->left,root->right);
+
+        if(solve(root->left,root->right)) return true;
+        return false;
     }
 };
