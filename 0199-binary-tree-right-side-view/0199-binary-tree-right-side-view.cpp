@@ -27,7 +27,7 @@ public:
         solve(root,0,0);
 
         for(auto & it:mpp){
-            ans.push_back(it.second.rbegin()->second);
+            ans.push_back(it.second.begin()->second);
         }
         return ans;
     }
