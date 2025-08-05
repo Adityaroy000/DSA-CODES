@@ -11,24 +11,24 @@
  */
 class Solution {
 public:
+    vector<int>ans;
+    map<int,map<int,int>>mpp;
+    void solve(TreeNode* root,int row,int col){
+        if(!root) return;
+        
+        if(mpp.count(row) == 0)
+            mpp[row][col] = root->val;
+        solve(root->right,row+1,col+1);
+        solve(root->left,row+1,col-1);
+        
+    }
     vector<int> rightSideView(TreeNode* root) {
-        if(!root) return {};
-        queue<pair<TreeNode*,int>>q;
-        map<int,int>mp;
-        q.push({root,0});
-        while(!q.empty()){
-            auto node=q.front();
-            q.pop();
-            TreeNode* curr = node.first;
-            int level=node.second;
-            mp[level]=curr->val;
-            if(curr->left) q.push({curr->left,level+1});
-            if(curr->right) q.push({curr->right,level+1});
+        if(!root) return ans;
+        solve(root,0,0);
+
+        for(auto & it:mpp){
+            ans.push_back(it.second.rbegin()->second);
         }
-        vector<int>temp;
-        for(auto it1 : mp){
-            temp.push_back(it1.second);
-        }
-        return temp;
+        return ans;
     }
 };
