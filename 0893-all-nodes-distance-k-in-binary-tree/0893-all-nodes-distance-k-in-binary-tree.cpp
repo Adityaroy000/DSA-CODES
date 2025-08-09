@@ -9,41 +9,58 @@
  */
 class Solution {
 public:
-    vector<int>ans;
-    vector<vector<int>>graph = vector<vector<int>>(501);;
-    void build(TreeNode* root){
-        if (!root) return;
 
-        if (root->left) {
-            graph[root->val].push_back(root->left->val);
-            graph[root->left->val].push_back(root->val);
-            build(root->left);
-        }
-        if (root->right) {
-            graph[root->val].push_back(root->right->val);
-            graph[root->right->val].push_back(root->val);
-            build(root->right);
-        }
-    }
-    
-    void solve(int val,vector<int>& vis,int step,int k){
-        vis[val] = 1;
-        if(step == k){
-            ans.push_back(val);
-        }
-        for(int i=0;i<graph[val].size();i++){
-            if(!vis[graph[val][i]]){
-                solve(graph[val][i],vis,step+1,k);
-            }
-        }
+    unordered_map<TreeNode*,TreeNode*>mpp;
+    void inorder(TreeNode* root){
+        if(!root) return;
+
+        if(root->left) mpp[root->left] = root;
+        inorder(root->left);
+
+        if(root->right) mpp[root->right] = root;
+        inorder(root->right);
     }
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
-        build(root);
-        vector<int>vis(501);
-        int val = target->val;
-        
-        solve(val,vis,0,k);
+        inorder(root);
 
+        unordered_set<TreeNode*>st;
+        vector<int>ans;
+        queue<TreeNode*>q;
+
+        q.push(target);
+        st.insert(target);
+
+        int step = 0;
+        while(!q.empty()){
+            int n = q.size();
+            if(step == k){
+                while(!q.empty()){
+                    TreeNode* temp = q.front();
+                    q.pop();
+                    ans.push_back(temp->val);
+                }
+                return ans;
+            }
+            while(n--){
+                TreeNode* curr  = q.front();
+                q.pop();
+                st.insert(curr);
+
+                if(curr->left && !st.count(curr->left)) {
+                    q.push(curr->left);
+                    st.insert(curr->left);
+                }
+                if(curr->right && !st.count(curr->right)) {
+                    q.push(curr->right);
+                    st.insert(curr->right);
+                }
+                if(mpp.count(curr) && !st.count(mpp[curr])) {
+                    q.push(mpp[curr]);
+                    st.insert(mpp[curr]);
+                }
+            }
+            step++;
+        }
         return ans;
     }
 };
