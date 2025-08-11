@@ -23,8 +23,6 @@ public:
         }
         mpp[sum]++;
 
-        //if(!root->left && !root->right) return;
-
         solve(root->left,target,sum);
         solve(root->right,target,sum);
 
