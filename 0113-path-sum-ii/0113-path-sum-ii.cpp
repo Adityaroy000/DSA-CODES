@@ -12,26 +12,26 @@
 class Solution {
 public:
     vector<vector<int>>ans;
-    void solve(TreeNode* root,int targetSum,vector<int>temp){
+    void solve(TreeNode* root,int targetSum,vector<int>temp,int sum){
         if(!root) return;
         if(!root->left && !root->right){
             temp.push_back(root->val);
-            int sum = accumulate(temp.begin(),temp.end(),0);
+            sum += root->val;
             if(sum == targetSum){
                 ans.push_back(temp);
-            }else{
-                return;
-            }
+            }else return;
         }
         temp.push_back(root->val);
-        solve(root->left,targetSum,temp);
-        solve(root->right,targetSum,temp);
+        sum += root->val;
+        solve(root->left,targetSum,temp,sum);
+        solve(root->right,targetSum,temp,sum);
     }
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
         if(!root) return ans;
         
         vector<int>temp;
-        solve(root,targetSum,temp);
+        int sum = 0;
+        solve(root,targetSum,temp,sum);
 
         return ans;
     }
