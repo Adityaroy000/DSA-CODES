@@ -26,20 +26,22 @@ public:
 
         while(!q.empty()){
             int n = q.size();
-            vector<Node*>temp;
+            int s = n;
             while(n--){
-                temp.push_back(q.front());
                 Node* curr = q.front();
                 q.pop();
+
+                if(n!=0){
+                    if(!q.empty()) curr->next = q.front();
+                    else curr->next = NULL;
+                }else{
+                    curr->next = NULL;
+                }
+
                 if(curr->left) q.push(curr->left);
                 if(curr->right) q.push(curr->right);
-            }
-            for(int i=0;i<temp.size()-1;i++){
-                Node* node = temp[i];
-                node->next = temp[i+1];
-            }
-            Node* node = temp[temp.size()-1];
-            node->next = NULL;
+
+            }           
         }
         return root;
     }
