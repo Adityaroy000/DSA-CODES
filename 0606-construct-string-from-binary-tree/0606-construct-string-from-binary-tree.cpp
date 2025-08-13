@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    string solve(TreeNode* root){
+    string tree2str(TreeNode* root) {
         if(!root) return "";
 
         string res = to_string(root->val);
@@ -21,18 +21,15 @@ public:
         }
 
         if(root->left){
-            res += "(" + solve(root->left) + ")";
+            res += "(" + tree2str(root->left) + ")";
         }else{
             res+= "()";
         }
 
         if(root->right){
-            res += "(" + solve(root->right) + ")";
+            res += "(" + tree2str(root->right) + ")";
         }
         
         return res;
-    }
-    string tree2str(TreeNode* root) {
-        return solve(root);
     }
 };
