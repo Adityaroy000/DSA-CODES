@@ -25,15 +25,11 @@ public:
             }
         }
 
-        vector<int>left,right;
-        for(int i=0;i<idx;i++){
-            left.push_back(nums[i]);
-        }
-        for(int i=idx+1;i<n;i++){
-            right.push_back(nums[i]);
-        }
+        vector<int>left(nums.begin(),nums.begin()+idx);
+        vector<int>right(nums.begin()+idx+1,nums.end());
 
         TreeNode* root = new TreeNode(maxi);
+
         root->left = constructMaximumBinaryTree(left);
         root->right = constructMaximumBinaryTree(right);
 
