@@ -787,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0904-leaf-similar-trees) |
 | [0930-all-possible-full-binary-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0930-all-possible-full-binary-trees) |
 | [0955-complete-binary-tree-inserter](https://github.com/Adityaroy000/DSA-CODES/tree/master/0955-complete-binary-tree-inserter) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0988-flip-equivalent-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1035-cousins-in-binary-tree) |
@@ -862,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0904-leaf-similar-trees) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Adityaroy000/DSA-CODES/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0988-flip-equivalent-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1035-cousins-in-binary-tree) |
@@ -938,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0904-leaf-similar-trees) |
 | [0930-all-possible-full-binary-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0930-all-possible-full-binary-trees) |
 | [0955-complete-binary-tree-inserter](https://github.com/Adityaroy000/DSA-CODES/tree/master/0955-complete-binary-tree-inserter) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0988-flip-equivalent-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1035-cousins-in-binary-tree) |
