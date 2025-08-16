@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Adityaroy000/DSA-CODES/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/Adityaroy000/DSA-CODES/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Adityaroy000/DSA-CODES/tree/master/0868-push-dominoes) |
+| [0930-all-possible-full-binary-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0930-all-possible-full-binary-trees) |
 | [0943-sum-of-subarray-minimums](https://github.com/Adityaroy000/DSA-CODES/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0967-minimum-falling-path-sum) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Adityaroy000/DSA-CODES/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Adityaroy000/DSA-CODES/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0394-decode-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Adityaroy000/DSA-CODES/tree/master/0795-k-th-symbol-in-grammar) |
+| [0930-all-possible-full-binary-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0930-all-possible-full-binary-trees) |
 | [2050-count-good-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/2050-count-good-numbers) |
 ## Stack
 |  |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-binary-tree-pruning](https://github.com/Adityaroy000/DSA-CODES/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0904-leaf-similar-trees) |
+| [0930-all-possible-full-binary-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0930-all-possible-full-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1035-cousins-in-binary-tree) |
@@ -931,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-binary-tree-pruning](https://github.com/Adityaroy000/DSA-CODES/tree/master/0832-binary-tree-pruning) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0904-leaf-similar-trees) |
+| [0930-all-possible-full-binary-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0930-all-possible-full-binary-trees) |
 | [1005-univalued-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1035-cousins-in-binary-tree) |
@@ -1078,6 +1082,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/0070-climbing-stairs) |
+| [0930-all-possible-full-binary-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0930-all-possible-full-binary-trees) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Adityaroy000/DSA-CODES/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Combinatorics
