@@ -22,7 +22,7 @@ public:
 
         if(mpp.count(n)!=0) return mpp[n];
 
-        for(int i=1;i<n;i++){
+        for(int i=1;i<n;i+=2){
             int right = n-1-i;
 
             vector<TreeNode*>leftTree = allPossibleFBT(i);
