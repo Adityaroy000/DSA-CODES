@@ -8,56 +8,38 @@
  */
 class Solution {
 public:
-    int length(ListNode* head){
-        ListNode* temp = head;
-        int cnt =0;
-        while(temp!=NULL){
-            cnt++;
-            temp = temp->next;
-        }
-        return cnt;
-    }
-    int getdiff(ListNode* head1,ListNode* head2){
-        int a = length(head1);
-        int b = length(head2);
-        int diff;
-        if(a>b){
-            diff = a-b;
-        }else{
-            diff = b-a;
-        }
-        return diff;
-    }
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        if(headA==NULL || headB == NULL) return NULL;
-        ListNode* t1 = headA;
-        ListNode* t2 = headB;
-        int l1 = length(headA);
-        int l2 = length(headB);
-        int n = getdiff(headA,headB);
-        if(l1>l2){
-            ListNode*t = headA;
-            for(int i = 1;i<=n;i++){
-                t = t->next;
-            }
-            headA = t;
-        }else{
-            ListNode* t = headB;
-            for(int i=1;i<=n;i++){
-                t = t->next;
-            }
-            headB = t;
+        set<ListNode*>st;
+        ListNode* ta = headA;
+        ListNode* tb = headB;
+
+        while(ta && tb){
+            if(st.find(ta)!= st.end()){
+                return ta;
+            }else if(st.find(tb)!=st.end()){
+                return tb;
+            }else if(ta == tb) return ta;
+            
+            st.insert(ta);
+            st.insert(tb);
+
+            ta = ta->next;
+            tb = tb->next;
         }
-        while(headA!=NULL&&headB!= NULL){
-            if(headA==headB){
-                return headA;
-            }else{
-                headA = headA->next;
-                headB = headB->next;
+        while(ta){
+            if(st.find(ta)!= st.end()){
+                return ta;
             }
+            st.insert(ta);
+            ta = ta->next;
         }
-        headA = t1;
-        headB = t2;
+        while(tb){
+            if(st.find(tb)!= st.end()){
+                return tb;
+            }
+            st.insert(tb);
+            tb = tb->next;
+        }
         return NULL;
     }
 };
