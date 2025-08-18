@@ -1,21 +1,40 @@
 class MyHashSet {
-
 public:
-    vector<bool>arr;
+    int M;
+    vector<vector<int>>bucket;
     MyHashSet() {
-        arr = vector<bool>(1e6+1,false);
+        M = 12000;
+        bucket = vector<vector<int>>(M,vector<int>{});
+    }
+
+    int getIndex(int key){
+        return key%M;
     }
     
     void add(int key) {
-        arr[key] = true;
+        int index = getIndex(key);
+
+        auto itr = find(bucket[index].begin(),bucket[index].end(),key);
+        if(itr == bucket[index].end()){
+            bucket[index].push_back(key);
+        }
     }
     
     void remove(int key) {
-        arr[key] = false;
+        int index = getIndex(key);
+
+        auto itr = find(bucket[index].begin(),bucket[index].end(),key);
+        if(itr != bucket[index].end()){
+            bucket[index].erase(itr);
+        }
     }
     
     bool contains(int key) {
-        return arr[key];
+        int index = getIndex(key);
+
+        auto itr = find(bucket[index].begin(),bucket[index].end(),key);
+        
+        return itr != bucket[index].end();
     }
 };
 
