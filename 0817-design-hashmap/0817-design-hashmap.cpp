@@ -1,10 +1,10 @@
 class MyHashMap {
 public:
     int M;
-    vector<vector<pair<int,int>>>arr;
+    vector<list<pair<int,int>>>arr;
     MyHashMap() {
         M = 12000;
-        arr.resize(M,vector<pair<int,int>>{});
+        arr.resize(M,list<pair<int,int>>{});
     }
     
     int getIndex(int key){
