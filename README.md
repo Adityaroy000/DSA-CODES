@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/Adityaroy000/DSA-CODES/tree/master/0753-open-the-lock) |
 | [0792-binary-search](https://github.com/Adityaroy000/DSA-CODES/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/Adityaroy000/DSA-CODES/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Adityaroy000/DSA-CODES/tree/master/0817-design-hashmap) |
 | [0833-bus-routes](https://github.com/Adityaroy000/DSA-CODES/tree/master/0833-bus-routes) |
 | [0876-hand-of-straights](https://github.com/Adityaroy000/DSA-CODES/tree/master/0876-hand-of-straights) |
 | [0907-koko-eating-bananas](https://github.com/Adityaroy000/DSA-CODES/tree/master/0907-koko-eating-bananas) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0753-open-the-lock](https://github.com/Adityaroy000/DSA-CODES/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0778-reorganize-string) |
 | [0816-design-hashset](https://github.com/Adityaroy000/DSA-CODES/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Adityaroy000/DSA-CODES/tree/master/0817-design-hashmap) |
 | [0833-bus-routes](https://github.com/Adityaroy000/DSA-CODES/tree/master/0833-bus-routes) |
 | [0876-hand-of-straights](https://github.com/Adityaroy000/DSA-CODES/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Adityaroy000/DSA-CODES/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/Adityaroy000/DSA-CODES/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/Adityaroy000/DSA-CODES/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Adityaroy000/DSA-CODES/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/Adityaroy000/DSA-CODES/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Adityaroy000/DSA-CODES/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Adityaroy000/DSA-CODES/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Adityaroy000/DSA-CODES/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/Adityaroy000/DSA-CODES/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Adityaroy000/DSA-CODES/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/Adityaroy000/DSA-CODES/tree/master/0937-online-stock-span) |
 | [0955-complete-binary-tree-inserter](https://github.com/Adityaroy000/DSA-CODES/tree/master/0955-complete-binary-tree-inserter) |
 ## Queue
@@ -1127,4 +1131,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/Adityaroy000/DSA-CODES/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/Adityaroy000/DSA-CODES/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
