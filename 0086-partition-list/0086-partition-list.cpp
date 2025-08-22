@@ -14,37 +14,24 @@ public:
         if(!head || !head->next) return head;
 
         ListNode* curr = head;
-        ListNode* diff;
-        vector<ListNode*>vec;
-        vector<ListNode*>bara;
+        ListNode* lessHead = new ListNode(-1);
+        ListNode* lesstemp = lessHead;
 
-        bool flag = false;
+        ListNode* grtHead = new ListNode(-1);
+        ListNode* grttemp = grtHead;
+
         while(curr){
-            if(curr->val == x && !flag ){
-                diff = curr;
-                bara.push_back(curr);
-                flag = true;
-            } 
-            else if(curr->val < x){
-                vec.push_back(curr);
+            if(curr->val < x){
+                lesstemp->next = curr;
+                lesstemp = lesstemp->next;
             }else{
-                bara.push_back(curr);
+                grttemp->next = curr;
+                grttemp = grttemp->next;
             }
             curr = curr->next;
         }
-        ListNode* dummy = new ListNode(-1);
-        ListNode* temp = dummy;
-
-        for(int i=0;i<vec.size();i++){
-            ListNode* newnode = new ListNode(vec[i]->val);
-            temp->next = newnode;
-            temp = newnode;
-        }
-        for(int i=0;i<bara.size();i++){
-            ListNode* newnode = new ListNode(bara[i]->val);
-            temp->next = newnode;
-            temp = newnode;
-        }
-        return dummy->next;
+        grttemp->next = NULL;
+        lesstemp->next = grtHead->next;
+        return lessHead->next;
     }
 };
