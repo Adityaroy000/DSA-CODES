@@ -15,14 +15,15 @@ public:
 
         ListNode* slow = head;
         ListNode* fast = head;
-
+        // find middle one
         while(fast && fast->next){
             slow = slow->next;
             fast = fast->next->next;
         }
-
+        //split in to two half
         ListNode* second = slow->next;
         slow->next = NULL;
+        //reverse second half
         ListNode* prev = NULL, *curr = second, *next = NULL;
         while(curr){
             next = curr->next;
@@ -33,7 +34,7 @@ public:
 
         ListNode* first = head;
         second = prev;
-
+        // merge both
         while(second){
             ListNode* temp1 = first->next;
             ListNode* temp2 = second->next;
