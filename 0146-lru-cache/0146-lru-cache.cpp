@@ -1,67 +1,67 @@
 class LRUCache {
-public:
-    class node{
-        public:
-        int key,val;
-        node* next;
-        node* prev;
-        node(int key1,int val1){
-            key = key1;
-            val = val1;
-        }
+private:
+    struct ListNode{
+        int key;
+        int val;
+        ListNode *next;
+        ListNode *prev;
+        ListNode(int k, int v) : key(k), val(v), next(nullptr), prev(nullptr) {}
     };
+public:
+    unordered_map<int,ListNode*>mpp;
+    ListNode* head;
+    ListNode* tail;
     int cap;
-    unordered_map<int,node*>mpp;
-    node* head = new node(-1,-1);
-    node* tail = new node(-1,-1);
-
     LRUCache(int capacity) {
         cap = capacity;
+        head = new ListNode(-1,-1);
+        tail = new ListNode(-1,-1);
         head->next = tail;
         tail->prev = head;
     }
-    void deletenode(node* delnode){
-        node* delprev = delnode->prev;
-        node* delnext = delnode->next;
-        delprev->next = delnext;
-        delnext->prev = delprev;
+
+    void move(ListNode* node){
+        node->prev->next = node->next;
+        node->next->prev = node->prev;
+
+        node->next = head->next;
+        head->next->prev = node;
+        node->prev = head;
+        head->next = node;
     }
-    void insertnode(node* newnode){
-        node* temp = head->next;
-        newnode->next = temp;
-        temp->prev = newnode;
-        head->next = newnode;
-        newnode->prev = head;
-    }
+    
     int get(int key) {
-        if(mpp.find(key)!=mpp.end()){
-            node* currnode = mpp[key];
-            int ans = currnode->val;
-            deletenode(currnode);
-            insertnode(currnode);
-            return ans;
-        }
-        return -1;
+        if(mpp.find(key)==mpp.end()) return -1;
+        ListNode* p = mpp[key];
+        int ans = p->val;
+
+        move(p);
+        return ans;
     }
     
     void put(int key, int value) {
         if(mpp.find(key)!=mpp.end()){
-            node* existingnode = mpp[key];
-            existingnode->val = value;
-            deletenode(existingnode);
-            insertnode(existingnode);
+            ListNode* curr = mpp[key];
+            curr->val = value;
+            move(curr);
+            return;
         }
-        else {
-            if(mpp.size()==cap){
-                node* temp = tail->prev;
-                mpp.erase(temp->key);
-                deletenode(temp);
-            }
-            node* newnode = new node(key,value);
-            mpp[key]=newnode;
-            insertnode(newnode);
+
+        if(mpp.size()==cap){
+            ListNode* del = tail->prev;
+            mpp.erase(del->key);
+            del->prev->next = tail;
+            tail->prev = del->prev;
+            delete del;
         }
+
+        ListNode* newnode = new ListNode(key,value);
+        mpp[key] = newnode;
+        newnode->next = head->next;
+        newnode->prev = head;
         
+        head->next->prev = newnode;
+        head->next = newnode;
 
     }
 };
