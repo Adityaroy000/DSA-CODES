@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Adityaroy000/DSA-CODES/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0654-maximum-binary-tree) |
 | [0721-accounts-merge](https://github.com/Adityaroy000/DSA-CODES/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Adityaroy000/DSA-CODES/tree/master/0733-flood-fill) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaroy000/DSA-CODES/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Adityaroy000/DSA-CODES/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Adityaroy000/DSA-CODES/tree/master/1046-max-consecutive-ones-iii) |
