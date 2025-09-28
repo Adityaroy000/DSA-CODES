@@ -11,8 +11,6 @@ public:
             if(r-l+1 == k) {
                 double avg = sum/k;
                 maxavg = max(maxavg,avg);
-            }
-            while(r-l+1 >=k ){
                 sum -= nums[l];
                 l++;
             }
