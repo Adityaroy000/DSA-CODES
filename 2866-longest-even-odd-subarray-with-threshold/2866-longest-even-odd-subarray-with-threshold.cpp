@@ -4,22 +4,14 @@ public:
         int n = nums.size();
         int maxlen = 0;
 
-        int l=0,r=0;
-        while(r<n){
-            if(nums[l]%2!=0){
-                l++;
+        for(int i=0;i<n;i++){
+            if(nums[i]%2==0 && nums[i]<=threshold){
+                int j = i;
+                while(j+1<n && nums[j+1]<=threshold && nums[j]%2 != nums[j+1]%2) j++;
+                maxlen = max(maxlen,j-i+1);
+                i = j;
             }
-            if(l<=r && r>0 && nums[r]%2 == nums[r-1]%2){
-                maxlen = max(maxlen,r-l);
-                l=r;
-            }
-            if(l<=r && nums[r]>threshold){
-                maxlen = max(maxlen,r-l);
-                l=r+1;
-            }
-            r++;
         }
-        maxlen = max(maxlen,r-l);
         return maxlen;
     }
 };
