@@ -1,25 +1,16 @@
 class Solution {
 public:
     int divisorSubstrings(int num, int k) {
-        string temp ="";
-        int n = num;
-        while(n>0){
-            int ld = n%10;
-            temp = to_string(ld)+temp;
-            n /= 10;
+        int og = num;
+        long long mod = 1;
+        for(int i=1;i<=k;i++){
+            mod *= 10;
         }
-        
-        int cnt = 0;
-        int l=0,r=k-1;
-        while(r<temp.size()){
-            string d = temp.substr(l,r-l+1);
-
-            int div = stoi(d);
-
-            if(div != 0 && num % div == 0) cnt++;
-            l++;
-            r++;
-            
+        int cnt =0;
+        while(num >= mod/10){
+            int div = num%mod;
+            if(div != 0 && og % div == 0) cnt++;
+            num /= 10;
         }
         return cnt;
     }
