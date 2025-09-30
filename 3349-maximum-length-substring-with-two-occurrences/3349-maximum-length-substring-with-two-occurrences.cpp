@@ -2,15 +2,15 @@ class Solution {
 public:
     int maximumLengthSubstring(string s) {
         int n = s.size();
-        unordered_map<char,int>mpp;
+        vector<int>freq(26,0);
 
         int l=0,r=0;
         int maxlen = 0;
         while(r<n){
-            mpp[s[r]]++;
+            freq[s[r]-'a']++;
            
-            while(mpp[s[r]]>2){
-                mpp[s[l]]--;
+            while(freq[s[r]-'a']>2){
+               freq[s[l]-'a']--;
                 l++;
             }
             maxlen = max(maxlen,r-l+1);
