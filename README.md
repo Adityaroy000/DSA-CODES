@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Adityaroy000/DSA-CODES/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3194-find-words-containing-character](https://github.com/Adityaroy000/DSA-CODES/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Adityaroy000/DSA-CODES/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Adityaroy000/DSA-CODES/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Adityaroy000/DSA-CODES/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Adityaroy000/DSA-CODES/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Adityaroy000/DSA-CODES/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adityaroy000/DSA-CODES/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Adityaroy000/DSA-CODES/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Adityaroy000/DSA-CODES/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Heap (Priority Queue)
@@ -784,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1873-longest-nice-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/1873-longest-nice-substring) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Adityaroy000/DSA-CODES/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Tree
 |  |
@@ -1111,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Adityaroy000/DSA-CODES/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Graph
 |  |
 | ------- |
