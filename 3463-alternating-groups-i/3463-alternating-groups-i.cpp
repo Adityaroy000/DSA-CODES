@@ -4,16 +4,14 @@ public:
         int n = colors.size();
 
         int cnt = 0;
-        for(int r = 1;r<n-1;r++){
-            if(colors[r] != colors[r-1] && colors[r] != colors[r+1]) cnt++;
+        for(int r = 0;r<n;r++){
+            int curr = colors[r];
+            int next = colors[(r+1)%n];
+            int after_next = colors[(r+2)%n];
+
+            if(curr != next && next != after_next) cnt++;
         }
 
-        if(colors[n-1] !=colors[n-2] && colors[n-1] != colors[0]){
-            cnt++;
-        }
-        if(colors[0] !=colors[1] && colors[0] != colors[n-1]){
-            cnt++;
-        }
         return cnt;
     }
 };
