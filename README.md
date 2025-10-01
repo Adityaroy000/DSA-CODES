@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Adityaroy000/DSA-CODES/tree/master/3321-type-of-triangle) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3463-alternating-groups-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3463-alternating-groups-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3639-zero-array-transformation-i) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Adityaroy000/DSA-CODES/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Adityaroy000/DSA-CODES/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Adityaroy000/DSA-CODES/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3463-alternating-groups-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3463-alternating-groups-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Adityaroy000/DSA-CODES/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Adityaroy000/DSA-CODES/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Adityaroy000/DSA-CODES/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3647-zero-array-transformation-iii) |
