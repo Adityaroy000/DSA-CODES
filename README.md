@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3643-zero-array-transformation-ii) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Adityaroy000/DSA-CODES/tree/master/3644-minimum-positive-sum-subarray) |
 | [3647-zero-array-transformation-iii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3647-zero-array-transformation-iii) |
 | [3721-count-mentions-per-user](https://github.com/Adityaroy000/DSA-CODES/tree/master/3721-count-mentions-per-user) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3639-zero-array-transformation-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3643-zero-array-transformation-ii) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Adityaroy000/DSA-CODES/tree/master/3644-minimum-positive-sum-subarray) |
 | [3647-zero-array-transformation-iii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Adityaroy000/DSA-CODES/tree/master/3833-merge-operations-for-minimum-travel-time) |
@@ -728,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3463-alternating-groups-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3463-alternating-groups-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Adityaroy000/DSA-CODES/tree/master/3644-minimum-positive-sum-subarray) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Heap (Priority Queue)
 |  |
