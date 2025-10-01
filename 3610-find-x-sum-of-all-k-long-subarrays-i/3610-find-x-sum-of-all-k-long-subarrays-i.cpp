@@ -3,32 +3,50 @@ public:
     typedef pair<int,int> p;
     vector<int> findXSum(vector<int>& nums, int k, int x) {
         int n = nums.size();
-        vector<int>ans(n-k+1);
+        vector<int>ans;
         unordered_map<int,int>mpp;
         
-        int l=0,r=0,idx = 0;;
-        while(r<n){
-            mpp[nums[r]]++;
-            if(r-l+1 == k){
-                priority_queue<p,vector<p>>pq;
-                for(auto & it: mpp){
-                    pq.push({it.second,it.first});
-                }
-                int sum = 0;
-                for(int i=1;i<=x&&!pq.empty();i++){
-                    int mfe = pq.top().second;
-                    int mfc = pq.top().first;
-                    pq.pop();
-                    sum += (mfe*mfc);
-                }
-                ans[idx] = sum;
-                idx++;
-                mpp[nums[l]]==1?mpp.erase(nums[l]):mpp[nums[l]]--;
-                l++;
-            }
-            r++;
+        set<p>st;
+        for(int i=0;i<k;i++){
+            mpp[nums[i]]++;
+        }
+        for(auto &it:mpp){
+            st.insert({it.second,it.first});
         }
 
+        auto calcSum = [&]() {
+            int sum = 0;
+            auto it = st.rbegin();
+            int cnt = 0;
+            while(it != st.rend() && cnt < x){
+                sum += (it->first * it->second);
+                it++;
+                cnt++;
+            }
+            return sum;
+        };
+
+        ans.push_back(calcSum());
+
+        for(int i=1;i<=n-k;i++){
+            int oldVal = nums[i-1];
+            st.erase({mpp[oldVal],oldVal});
+            mpp[oldVal]--;
+            if(mpp[oldVal]>0){
+                st.insert({mpp[oldVal],oldVal});
+            }else{
+                mpp.erase(oldVal);
+            }
+
+            int newVal = nums[i+k-1];
+            if(mpp.count(newVal)){
+                st.erase({mpp[newVal],newVal});
+            }
+            mpp[newVal]++;
+            st.insert({mpp[newVal],newVal});
+            ans.push_back(calcSum());
+        }
+        
         return ans;
     }
 };
