@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Adityaroy000/DSA-CODES/tree/master/3644-minimum-positive-sum-subarray) |
 | [3647-zero-array-transformation-iii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3647-zero-array-transformation-iii) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Adityaroy000/DSA-CODES/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3721-count-mentions-per-user](https://github.com/Adityaroy000/DSA-CODES/tree/master/3721-count-mentions-per-user) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Adityaroy000/DSA-CODES/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Adityaroy000/DSA-CODES/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Adityaroy000/DSA-CODES/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3721-count-mentions-per-user](https://github.com/Adityaroy000/DSA-CODES/tree/master/3721-count-mentions-per-user) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Adityaroy000/DSA-CODES/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Simulation
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Adityaroy000/DSA-CODES/tree/master/3644-minimum-positive-sum-subarray) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Adityaroy000/DSA-CODES/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -1196,6 +1199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/2215-finding-3-digit-even-numbers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Adityaroy000/DSA-CODES/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## String Matching
 |  |
@@ -1219,4 +1223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Adityaroy000/DSA-CODES/tree/master/0382-linked-list-random-node) |
+## Number Theory
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Adityaroy000/DSA-CODES/tree/master/3702-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
