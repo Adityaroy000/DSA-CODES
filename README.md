@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Adityaroy000/DSA-CODES/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Adityaroy000/DSA-CODES/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Adityaroy000/DSA-CODES/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/Adityaroy000/DSA-CODES/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0229-majority-element-ii) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Adityaroy000/DSA-CODES/tree/master/0127-word-ladder) |
+| [0187-repeated-dna-sequences](https://github.com/Adityaroy000/DSA-CODES/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/Adityaroy000/DSA-CODES/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/Adityaroy000/DSA-CODES/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaroy000/DSA-CODES/tree/master/0424-longest-repeating-character-replacement) |
@@ -797,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Adityaroy000/DSA-CODES/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/Adityaroy000/DSA-CODES/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/Adityaroy000/DSA-CODES/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Adityaroy000/DSA-CODES/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/0268-missing-number) |
@@ -1208,6 +1212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Adityaroy000/DSA-CODES/tree/master/0187-repeated-dna-sequences) |
 | [0572-subtree-of-another-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/Adityaroy000/DSA-CODES/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Adityaroy000/DSA-CODES/tree/master/0817-design-hashmap) |
@@ -1227,4 +1232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Adityaroy000/DSA-CODES/tree/master/3702-maximum-subarray-with-equal-products) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Adityaroy000/DSA-CODES/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
