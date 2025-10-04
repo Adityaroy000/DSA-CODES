@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3822-fill-a-special-grid](https://github.com/Adityaroy000/DSA-CODES/tree/master/3822-fill-a-special-grid) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Adityaroy000/DSA-CODES/tree/master/3833-merge-operations-for-minimum-travel-time) |
+| [3953-minimum-discards-to-balance-inventory](https://github.com/Adityaroy000/DSA-CODES/tree/master/3953-minimum-discards-to-balance-inventory) |
 ## Hash Table
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Adityaroy000/DSA-CODES/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3953-minimum-discards-to-balance-inventory](https://github.com/Adityaroy000/DSA-CODES/tree/master/3953-minimum-discards-to-balance-inventory) |
 ## Two Pointers
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Adityaroy000/DSA-CODES/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3721-count-mentions-per-user](https://github.com/Adityaroy000/DSA-CODES/tree/master/3721-count-mentions-per-user) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3953-minimum-discards-to-balance-inventory](https://github.com/Adityaroy000/DSA-CODES/tree/master/3953-minimum-discards-to-balance-inventory) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Adityaroy000/DSA-CODES/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3953-minimum-discards-to-balance-inventory](https://github.com/Adityaroy000/DSA-CODES/tree/master/3953-minimum-discards-to-balance-inventory) |
 ## Binary Search
 |  |
 | ------- |
@@ -738,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-minimum-positive-sum-subarray](https://github.com/Adityaroy000/DSA-CODES/tree/master/3644-minimum-positive-sum-subarray) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Adityaroy000/DSA-CODES/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3953-minimum-discards-to-balance-inventory](https://github.com/Adityaroy000/DSA-CODES/tree/master/3953-minimum-discards-to-balance-inventory) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
