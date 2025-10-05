@@ -47,8 +47,6 @@ public:
             }
             r++;
         }
-
-        // DO upvote :)
         return res;
     }
 };
