@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3822-fill-a-special-grid](https://github.com/Adityaroy000/DSA-CODES/tree/master/3822-fill-a-special-grid) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Adityaroy000/DSA-CODES/tree/master/3833-merge-operations-for-minimum-travel-time) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3953-minimum-discards-to-balance-inventory](https://github.com/Adityaroy000/DSA-CODES/tree/master/3953-minimum-discards-to-balance-inventory) |
 ## Hash Table
 |  |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-maximum-subarray-with-equal-products](https://github.com/Adityaroy000/DSA-CODES/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3721-count-mentions-per-user](https://github.com/Adityaroy000/DSA-CODES/tree/master/3721-count-mentions-per-user) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Adityaroy000/DSA-CODES/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Simulation
 |  |
 | ------- |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/Adityaroy000/DSA-CODES/tree/master/0649-dota2-senate) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Adityaroy000/DSA-CODES/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## String
 |  |
 | ------- |
@@ -742,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-minimum-positive-sum-subarray](https://github.com/Adityaroy000/DSA-CODES/tree/master/3644-minimum-positive-sum-subarray) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Adityaroy000/DSA-CODES/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3953-minimum-discards-to-balance-inventory](https://github.com/Adityaroy000/DSA-CODES/tree/master/3953-minimum-discards-to-balance-inventory) |
 ## Heap (Priority Queue)
 |  |
@@ -772,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Adityaroy000/DSA-CODES/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Data Stream
 |  |
 | ------- |
@@ -1237,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Adityaroy000/DSA-CODES/tree/master/3702-maximum-subarray-with-equal-products) |
+| [3907-count-prime-gap-balanced-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Rolling Hash
 |  |
 | ------- |
