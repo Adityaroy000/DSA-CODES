@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Adityaroy000/DSA-CODES/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaroy000/DSA-CODES/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/Adityaroy000/DSA-CODES/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Adityaroy000/DSA-CODES/tree/master/0485-max-consecutive-ones) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0337-house-robber-iii) |
 | [0410-split-array-largest-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/Adityaroy000/DSA-CODES/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Adityaroy000/DSA-CODES/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Adityaroy000/DSA-CODES/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0239-sliding-window-maximum) |
+| [0413-arithmetic-slices](https://github.com/Adityaroy000/DSA-CODES/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaroy000/DSA-CODES/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/0643-maximum-average-subarray-i) |
