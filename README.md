@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Adityaroy000/DSA-CODES/tree/master/0355-design-twitter) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaroy000/DSA-CODES/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0460-lfu-cache](https://github.com/Adityaroy000/DSA-CODES/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0508-most-frequent-subtree-sum) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Adityaroy000/DSA-CODES/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaroy000/DSA-CODES/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0606-construct-string-from-binary-tree) |
 | [0649-dota2-senate](https://github.com/Adityaroy000/DSA-CODES/tree/master/0649-dota2-senate) |
 | [0721-accounts-merge](https://github.com/Adityaroy000/DSA-CODES/tree/master/0721-accounts-merge) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/Adityaroy000/DSA-CODES/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaroy000/DSA-CODES/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0966-binary-subarrays-with-sum) |
