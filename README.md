@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Adityaroy000/DSA-CODES/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3953-minimum-discards-to-balance-inventory](https://github.com/Adityaroy000/DSA-CODES/tree/master/3953-minimum-discards-to-balance-inventory) |
+| [4021-distinct-points-reachable-after-substring-removal](https://github.com/Adityaroy000/DSA-CODES/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Adityaroy000/DSA-CODES/tree/master/3833-merge-operations-for-minimum-travel-time) |
+| [4021-distinct-points-reachable-after-substring-removal](https://github.com/Adityaroy000/DSA-CODES/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Adityaroy000/DSA-CODES/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [4021-distinct-points-reachable-after-substring-removal](https://github.com/Adityaroy000/DSA-CODES/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -750,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3953-minimum-discards-to-balance-inventory](https://github.com/Adityaroy000/DSA-CODES/tree/master/3953-minimum-discards-to-balance-inventory) |
+| [4021-distinct-points-reachable-after-substring-removal](https://github.com/Adityaroy000/DSA-CODES/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
