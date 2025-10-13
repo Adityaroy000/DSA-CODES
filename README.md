@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3822-fill-a-special-grid](https://github.com/Adityaroy000/DSA-CODES/tree/master/3822-fill-a-special-grid) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Adityaroy000/DSA-CODES/tree/master/3833-merge-operations-for-minimum-travel-time) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3953-minimum-discards-to-balance-inventory](https://github.com/Adityaroy000/DSA-CODES/tree/master/3953-minimum-discards-to-balance-inventory) |
 ## Hash Table
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Adityaroy000/DSA-CODES/tree/master/3833-merge-operations-for-minimum-travel-time) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/Adityaroy000/DSA-CODES/tree/master/4021-distinct-points-reachable-after-substring-removal) |
 ## Dynamic Programming
 |  |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Adityaroy000/DSA-CODES/tree/master/3637-count-number-of-balanced-permutations) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Adityaroy000/DSA-CODES/tree/master/3833-merge-operations-for-minimum-travel-time) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 ## Sorting
 |  |
 | ------- |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/Adityaroy000/DSA-CODES/tree/master/0649-dota2-senate) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Adityaroy000/DSA-CODES/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## String
 |  |
@@ -763,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-minimum-positive-sum-subarray](https://github.com/Adityaroy000/DSA-CODES/tree/master/3644-minimum-positive-sum-subarray) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Adityaroy000/DSA-CODES/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/3907-count-prime-gap-balanced-subarrays) |
 | [3953-minimum-discards-to-balance-inventory](https://github.com/Adityaroy000/DSA-CODES/tree/master/3953-minimum-discards-to-balance-inventory) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/Adityaroy000/DSA-CODES/tree/master/4021-distinct-points-reachable-after-substring-removal) |
@@ -796,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Adityaroy000/DSA-CODES/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [3907-count-prime-gap-balanced-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/3907-count-prime-gap-balanced-subarrays) |
 ## Data Stream
 |  |
