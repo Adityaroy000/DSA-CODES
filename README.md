@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Adityaroy000/DSA-CODES/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Adityaroy000/DSA-CODES/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Adityaroy000/DSA-CODES/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2050-count-good-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Adityaroy000/DSA-CODES/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Adityaroy000/DSA-CODES/tree/master/3172-divisible-and-non-divisible-sums-difference) |
