@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2460-apply-operations-to-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/2460-apply-operations-to-an-array) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Adityaroy000/DSA-CODES/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2615-sum-of-distances](https://github.com/Adityaroy000/DSA-CODES/tree/master/2615-sum-of-distances) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Adityaroy000/DSA-CODES/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Adityaroy000/DSA-CODES/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Adityaroy000/DSA-CODES/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/2460-apply-operations-to-an-array) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Adityaroy000/DSA-CODES/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Union Find
 |  |
