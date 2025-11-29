@@ -1,16 +1,7 @@
 class Solution {
 public:
     int maxPower(string s) {
-        unordered_set<char>st;
         int n = s.size();
-
-        for(int i=0;i<n;i++){
-            st.insert(s[i]);
-        }
-
-        if(st.size()==n){
-            return 1;
-        }
         int maxi = 0;
         
         char ch = '#';
