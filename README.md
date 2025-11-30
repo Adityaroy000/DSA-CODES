@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Adityaroy000/DSA-CODES/tree/master/1917-maximum-average-pass-ratio) |
 | [2047-find-a-peak-element-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/Adityaroy000/DSA-CODES/tree/master/2048-build-array-from-permutation) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Adityaroy000/DSA-CODES/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adityaroy000/DSA-CODES/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Adityaroy000/DSA-CODES/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Adityaroy000/DSA-CODES/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2050-count-good-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/2050-count-good-numbers) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Adityaroy000/DSA-CODES/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Adityaroy000/DSA-CODES/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Adityaroy000/DSA-CODES/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Adityaroy000/DSA-CODES/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Adityaroy000/DSA-CODES/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
