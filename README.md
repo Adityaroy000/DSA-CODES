@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Adityaroy000/DSA-CODES/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Adityaroy000/DSA-CODES/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Adityaroy000/DSA-CODES/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -1271,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-consecutive-numbers-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0856-consecutive-numbers-sum) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/2215-finding-3-digit-even-numbers) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Adityaroy000/DSA-CODES/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Adityaroy000/DSA-CODES/tree/master/3702-maximum-subarray-with-equal-products) |
