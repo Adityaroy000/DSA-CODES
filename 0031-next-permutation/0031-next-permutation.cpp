@@ -18,14 +18,14 @@ public:
             reverse(nums.begin(),nums.end());
             return;
         }
-
+        //swap breakpoint with just next bigger element that it
         for(int i=n-1;i>idx;i--){
             if(nums[i]>nums[idx]){
                 swap(nums[i],nums[idx]);
                 break;
             }
         }
-
+        //reverse from idx+1 to last to get the smallest next bigger
         reverse(nums.begin()+idx+1,nums.end());
         return;
     }
