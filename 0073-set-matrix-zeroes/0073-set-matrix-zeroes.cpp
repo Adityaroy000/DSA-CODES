@@ -1,37 +1,28 @@
 class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
-        int r = matrix.size();
-        int c = matrix[0].size();
-        int r0=-1,c0=-1;
-        vector<pair<int,int>> id;
-        vector<vector<int>> vis(r, vector<int>(c, 0));
-        for(int i=0; i<r; i++){
-            for(int j = 0; j<c; j++){
+        int m = matrix.size();
+        int n = matrix[0].size();
+
+        vector<pair<int,int>>idx;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
                 if(matrix[i][j]==0){
-                    id.push_back({i,j});
-                    r0 = i;
-                    c0 = j;
-                    vis[r0][c0] = 1;
+                    idx.push_back({i,j});
                 }
             }
-        }
-        if(r0 == -1 && c0 == -1) return;
-        for(auto it : id){
-            int rowid = it.first;
-            int colid = it.second;
-            for(int j = 0; j<c; j++){
-                if(vis[rowid][j]!=1){
-                    matrix[rowid][j] = 0;
-                    vis[rowid][j] = 1;
-                }
+        } 
+
+        for(int i=0;i<idx.size();i++){
+            int row = idx[i].first;
+            int col = idx[i].second;
+
+            for(int j = 0;j<n;j++){
+                matrix[row][j] = 0;
             }
-            for(int i = 0; i<r; i++){
-                if(vis[i][colid]!=1){
-                    matrix[i][colid] = 0;
-                    vis[i][colid] = 1;
-                }
+            for(int j=0;j<m;j++){
+                matrix[j][col] = 0;
             }
-        }
+        }  
     }
 };
