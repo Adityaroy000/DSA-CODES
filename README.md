@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Adityaroy000/DSA-CODES/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Adityaroy000/DSA-CODES/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Adityaroy000/DSA-CODES/tree/master/0073-set-matrix-zeroes) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Adityaroy000/DSA-CODES/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Adityaroy000/DSA-CODES/tree/master/0073-set-matrix-zeroes) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/Adityaroy000/DSA-CODES/tree/master/0735-asteroid-collision) |
 | [2048-build-array-from-permutation](https://github.com/Adityaroy000/DSA-CODES/tree/master/2048-build-array-from-permutation) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
