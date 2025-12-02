@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Adityaroy000/DSA-CODES/tree/master/0658-find-k-closest-elements) |
 | [0868-push-dominoes](https://github.com/Adityaroy000/DSA-CODES/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/Adityaroy000/DSA-CODES/tree/master/0908-middle-of-the-linked-list) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Adityaroy000/DSA-CODES/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Adityaroy000/DSA-CODES/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1446-consecutive-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1446-consecutive-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Adityaroy000/DSA-CODES/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1873-longest-nice-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -757,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/Adityaroy000/DSA-CODES/tree/master/0876-hand-of-straights) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Adityaroy000/DSA-CODES/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Adityaroy000/DSA-CODES/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/Adityaroy000/DSA-CODES/tree/master/1917-maximum-average-pass-ratio) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Adityaroy000/DSA-CODES/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Adityaroy000/DSA-CODES/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
