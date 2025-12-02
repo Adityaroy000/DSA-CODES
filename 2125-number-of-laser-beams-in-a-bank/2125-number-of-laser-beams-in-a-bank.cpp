@@ -3,9 +3,8 @@ public:
     int numberOfBeams(vector<string>& bank) {
         int n = bank.size();
         int m = bank[0].size();
-
-        unordered_map<int,int>mpp;
-        vector<int>temp;
+        int prev = 0; // to track devices in prev row
+        int ans = 0;
 
         for(int i=0;i<n;i++){
             int cnt = 0;
@@ -15,16 +14,11 @@ public:
                 }
             }
             if(cnt>0){
-                mpp[i] = cnt;
-                temp.push_back(i);
+               if(prev>0) ans += prev*cnt;
+               prev = cnt;
             }
         }
 
-        int ans = 0;
-        if(temp.empty()) return 0;
-        for(int i=0;i<temp.size()-1;i++){
-            ans += (mpp[temp[i]]*mpp[temp[i+1]]);
-        }
         return ans;
     }
 };
