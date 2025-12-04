@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Adityaroy000/DSA-CODES/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Adityaroy000/DSA-CODES/tree/master/0303-range-sum-query-immutable) |
+| [0334-increasing-triplet-subsequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaroy000/DSA-CODES/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Adityaroy000/DSA-CODES/tree/master/0413-arithmetic-slices) |
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Adityaroy000/DSA-CODES/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/Adityaroy000/DSA-CODES/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Adityaroy000/DSA-CODES/tree/master/0435-non-overlapping-intervals) |
