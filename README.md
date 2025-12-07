@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Adityaroy000/DSA-CODES/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2485-find-the-pivot-integer](https://github.com/Adityaroy000/DSA-CODES/tree/master/2485-find-the-pivot-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Adityaroy000/DSA-CODES/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Adityaroy000/DSA-CODES/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3201-distribute-candies-among-children-ii) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1991-find-the-middle-index-in-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2485-find-the-pivot-integer](https://github.com/Adityaroy000/DSA-CODES/tree/master/2485-find-the-pivot-integer) |
 | [2615-sum-of-distances](https://github.com/Adityaroy000/DSA-CODES/tree/master/2615-sum-of-distances) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Adityaroy000/DSA-CODES/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3639-zero-array-transformation-i) |
