@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/Adityaroy000/DSA-CODES/tree/master/1753-path-with-minimum-effort) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1854-maximum-population-year](https://github.com/Adityaroy000/DSA-CODES/tree/master/1854-maximum-population-year) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Adityaroy000/DSA-CODES/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/Adityaroy000/DSA-CODES/tree/master/1917-maximum-average-pass-ratio) |
 | [2047-find-a-peak-element-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/2047-find-a-peak-element-ii) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Adityaroy000/DSA-CODES/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1854-maximum-population-year](https://github.com/Adityaroy000/DSA-CODES/tree/master/1854-maximum-population-year) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2615-sum-of-distances](https://github.com/Adityaroy000/DSA-CODES/tree/master/2615-sum-of-distances) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Adityaroy000/DSA-CODES/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0778-reorganize-string) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Adityaroy000/DSA-CODES/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1854-maximum-population-year](https://github.com/Adityaroy000/DSA-CODES/tree/master/1854-maximum-population-year) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Adityaroy000/DSA-CODES/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Adityaroy000/DSA-CODES/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
