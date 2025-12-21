@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Adityaroy000/DSA-CODES/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0503-next-greater-element-ii) |
+| [0528-random-pick-with-weight](https://github.com/Adityaroy000/DSA-CODES/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/0560-subarray-sum-equals-k) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Adityaroy000/DSA-CODES/tree/master/0326-power-of-three) |
 | [0382-linked-list-random-node](https://github.com/Adityaroy000/DSA-CODES/tree/master/0382-linked-list-random-node) |
+| [0528-random-pick-with-weight](https://github.com/Adityaroy000/DSA-CODES/tree/master/0528-random-pick-with-weight) |
 | [0670-maximum-swap](https://github.com/Adityaroy000/DSA-CODES/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Adityaroy000/DSA-CODES/tree/master/0795-k-th-symbol-in-grammar) |
 | [0856-consecutive-numbers-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0856-consecutive-numbers-sum) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Adityaroy000/DSA-CODES/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Adityaroy000/DSA-CODES/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0410-split-array-largest-sum) |
+| [0528-random-pick-with-weight](https://github.com/Adityaroy000/DSA-CODES/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Adityaroy000/DSA-CODES/tree/master/0724-find-pivot-index) |
 | [0966-binary-subarrays-with-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0966-binary-subarrays-with-sum) |
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0410-split-array-largest-sum) |
+| [0528-random-pick-with-weight](https://github.com/Adityaroy000/DSA-CODES/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Adityaroy000/DSA-CODES/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/Adityaroy000/DSA-CODES/tree/master/0792-binary-search) |
@@ -1375,6 +1379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Adityaroy000/DSA-CODES/tree/master/0382-linked-list-random-node) |
+| [0528-random-pick-with-weight](https://github.com/Adityaroy000/DSA-CODES/tree/master/0528-random-pick-with-weight) |
 ## Number Theory
 |  |
 | ------- |
