@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Adityaroy000/DSA-CODES/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/Adityaroy000/DSA-CODES/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0542-01-matrix) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Adityaroy000/DSA-CODES/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0508-most-frequent-subtree-sum) |
+| [0525-contiguous-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0594-longest-harmonious-subsequence) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Adityaroy000/DSA-CODES/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Adityaroy000/DSA-CODES/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/Adityaroy000/DSA-CODES/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Adityaroy000/DSA-CODES/tree/master/0724-find-pivot-index) |
