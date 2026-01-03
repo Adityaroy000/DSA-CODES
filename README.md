@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Adityaroy000/DSA-CODES/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Adityaroy000/DSA-CODES/tree/master/3321-type-of-triangle) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Adityaroy000/DSA-CODES/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3361-shift-distance-between-two-strings](https://github.com/Adityaroy000/DSA-CODES/tree/master/3361-shift-distance-between-two-strings) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3463-alternating-groups-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3463-alternating-groups-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Adityaroy000/DSA-CODES/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/Adityaroy000/DSA-CODES/tree/master/2485-find-the-pivot-integer) |
 | [2615-sum-of-distances](https://github.com/Adityaroy000/DSA-CODES/tree/master/2615-sum-of-distances) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Adityaroy000/DSA-CODES/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3361-shift-distance-between-two-strings](https://github.com/Adityaroy000/DSA-CODES/tree/master/3361-shift-distance-between-two-strings) |
 | [3639-zero-array-transformation-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Adityaroy000/DSA-CODES/tree/master/3644-minimum-positive-sum-subarray) |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Adityaroy000/DSA-CODES/tree/master/3194-find-words-containing-character) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Adityaroy000/DSA-CODES/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Adityaroy000/DSA-CODES/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3361-shift-distance-between-two-strings](https://github.com/Adityaroy000/DSA-CODES/tree/master/3361-shift-distance-between-two-strings) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Adityaroy000/DSA-CODES/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3629-total-characters-in-string-after-transformations-i) |
