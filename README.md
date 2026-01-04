@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Adityaroy000/DSA-CODES/tree/master/1293-three-consecutive-odds) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/Adityaroy000/DSA-CODES/tree/master/1390-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Adityaroy000/DSA-CODES/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Adityaroy000/DSA-CODES/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/Adityaroy000/DSA-CODES/tree/master/0795-k-th-symbol-in-grammar) |
 | [0856-consecutive-numbers-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0856-consecutive-numbers-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/Adityaroy000/DSA-CODES/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adityaroy000/DSA-CODES/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Adityaroy000/DSA-CODES/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/1430-find-the-k-beauty-of-a-number) |
