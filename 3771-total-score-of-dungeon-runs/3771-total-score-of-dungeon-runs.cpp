@@ -1,5 +1,12 @@
 class Solution {
 public:
+    /*
+    for going in room j from i 
+    hp-(damage[i]+damage[i+1]+...+damage[j]) >= req[j]
+    hp-(pre[j]-pre[i-1])>=req[j]
+    cant apply binary search here in this equality So
+    pre[i-1] >= req[j]+pre[j]-hp;
+    */
     long long totalScore(int hp, vector<int>& damage, vector<int>& requirement) {
         int n = damage.size();
         vector<long long>pre(n+1);
