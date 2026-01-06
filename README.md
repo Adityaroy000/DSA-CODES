@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Adityaroy000/DSA-CODES/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Adityaroy000/DSA-CODES/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2460-apply-operations-to-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/2460-apply-operations-to-an-array) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Adityaroy000/DSA-CODES/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/2047-find-a-peak-element-ii) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Adityaroy000/DSA-CODES/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Adityaroy000/DSA-CODES/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3822-fill-a-special-grid](https://github.com/Adityaroy000/DSA-CODES/tree/master/3822-fill-a-special-grid) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/2381-shifting-letters-ii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Adityaroy000/DSA-CODES/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2485-find-the-pivot-integer](https://github.com/Adityaroy000/DSA-CODES/tree/master/2485-find-the-pivot-integer) |
 | [2615-sum-of-distances](https://github.com/Adityaroy000/DSA-CODES/tree/master/2615-sum-of-distances) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Adityaroy000/DSA-CODES/tree/master/3354-make-array-elements-equal-to-zero) |
