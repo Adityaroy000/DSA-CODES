@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3647-zero-array-transformation-iii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3647-zero-array-transformation-iii) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Adityaroy000/DSA-CODES/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3721-count-mentions-per-user](https://github.com/Adityaroy000/DSA-CODES/tree/master/3721-count-mentions-per-user) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Adityaroy000/DSA-CODES/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3771-total-score-of-dungeon-runs](https://github.com/Adityaroy000/DSA-CODES/tree/master/3771-total-score-of-dungeon-runs) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Adityaroy000/DSA-CODES/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Adityaroy000/DSA-CODES/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3643-zero-array-transformation-ii) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Adityaroy000/DSA-CODES/tree/master/3644-minimum-positive-sum-subarray) |
 | [3647-zero-array-transformation-iii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3647-zero-array-transformation-iii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Adityaroy000/DSA-CODES/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Adityaroy000/DSA-CODES/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Adityaroy000/DSA-CODES/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3953-minimum-discards-to-balance-inventory](https://github.com/Adityaroy000/DSA-CODES/tree/master/3953-minimum-discards-to-balance-inventory) |
@@ -733,12 +737,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Adityaroy000/DSA-CODES/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0654-maximum-binary-tree) |
 | [1873-longest-nice-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/1873-longest-nice-substring) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3822-fill-a-special-grid](https://github.com/Adityaroy000/DSA-CODES/tree/master/3822-fill-a-special-grid) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adityaroy000/DSA-CODES/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Adityaroy000/DSA-CODES/tree/master/0148-sort-list) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Design
 |  |
 | ------- |
@@ -1446,4 +1452,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/0729-my-calendar-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
