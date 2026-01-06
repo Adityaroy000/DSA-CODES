@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3755-find-maximum-balanced-xor-subarray-length](https://github.com/Adityaroy000/DSA-CODES/tree/master/3755-find-maximum-balanced-xor-subarray-length) |
 | [3771-total-score-of-dungeon-runs](https://github.com/Adityaroy000/DSA-CODES/tree/master/3771-total-score-of-dungeon-runs) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3788-maximum-score-of-a-split](https://github.com/Adityaroy000/DSA-CODES/tree/master/3788-maximum-score-of-a-split) |
 | [3822-fill-a-special-grid](https://github.com/Adityaroy000/DSA-CODES/tree/master/3822-fill-a-special-grid) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Adityaroy000/DSA-CODES/tree/master/3833-merge-operations-for-minimum-travel-time) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3771-total-score-of-dungeon-runs](https://github.com/Adityaroy000/DSA-CODES/tree/master/3771-total-score-of-dungeon-runs) |
+| [3788-maximum-score-of-a-split](https://github.com/Adityaroy000/DSA-CODES/tree/master/3788-maximum-score-of-a-split) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Adityaroy000/DSA-CODES/tree/master/3833-merge-operations-for-minimum-travel-time) |
 | [3835-count-partitions-with-max-min-difference-at-most-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/3835-count-partitions-with-max-min-difference-at-most-k) |
 | [4021-distinct-points-reachable-after-substring-removal](https://github.com/Adityaroy000/DSA-CODES/tree/master/4021-distinct-points-reachable-after-substring-removal) |
