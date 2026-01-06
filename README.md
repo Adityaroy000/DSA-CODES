@@ -1073,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adityaroy000/DSA-CODES/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Adityaroy000/DSA-CODES/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Adityaroy000/DSA-CODES/tree/master/2384-root-equals-sum-of-children) |
@@ -1150,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Adityaroy000/DSA-CODES/tree/master/1073-number-of-enclaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Adityaroy000/DSA-CODES/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Adityaroy000/DSA-CODES/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -1229,6 +1231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adityaroy000/DSA-CODES/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Adityaroy000/DSA-CODES/tree/master/2384-root-equals-sum-of-children) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -1284,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Adityaroy000/DSA-CODES/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Adityaroy000/DSA-CODES/tree/master/1073-number-of-enclaves) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Adityaroy000/DSA-CODES/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Adityaroy000/DSA-CODES/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
