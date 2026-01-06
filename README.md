@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1177-can-make-palindrome-from-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/1177-can-make-palindrome-from-substring) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Adityaroy000/DSA-CODES/tree/master/1293-three-consecutive-odds) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Adityaroy000/DSA-CODES/tree/master/1310-xor-queries-of-a-subarray) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/Adityaroy000/DSA-CODES/tree/master/1390-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Adityaroy000/DSA-CODES/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Adityaroy000/DSA-CODES/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Adityaroy000/DSA-CODES/tree/master/1109-corporate-flight-bookings) |
 | [1177-can-make-palindrome-from-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/1177-can-make-palindrome-from-substring) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Adityaroy000/DSA-CODES/tree/master/1310-xor-queries-of-a-subarray) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/1370-count-number-of-nice-subarrays) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -995,6 +997,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/Adityaroy000/DSA-CODES/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/Adityaroy000/DSA-CODES/tree/master/0800-letter-case-permutation) |
 | [1177-can-make-palindrome-from-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/1177-can-make-palindrome-from-substring) |
+| [1310-xor-queries-of-a-subarray](https://github.com/Adityaroy000/DSA-CODES/tree/master/1310-xor-queries-of-a-subarray) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1873-longest-nice-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/1873-longest-nice-substring) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/2323-minimum-bit-flips-to-convert-number) |
