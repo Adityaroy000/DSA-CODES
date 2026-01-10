@@ -527,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Adityaroy000/DSA-CODES/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0542-01-matrix) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Adityaroy000/DSA-CODES/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Adityaroy000/DSA-CODES/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/Adityaroy000/DSA-CODES/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Adityaroy000/DSA-CODES/tree/master/0868-push-dominoes) |
@@ -808,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0606-construct-string-from-binary-tree) |
 | [0649-dota2-senate](https://github.com/Adityaroy000/DSA-CODES/tree/master/0649-dota2-senate) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Adityaroy000/DSA-CODES/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Adityaroy000/DSA-CODES/tree/master/0721-accounts-merge) |
 | [0753-open-the-lock](https://github.com/Adityaroy000/DSA-CODES/tree/master/0753-open-the-lock) |
 | [0778-reorganize-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0778-reorganize-string) |
