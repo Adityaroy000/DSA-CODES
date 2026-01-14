@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Adityaroy000/DSA-CODES/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Adityaroy000/DSA-CODES/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Adityaroy000/DSA-CODES/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Adityaroy000/DSA-CODES/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0189-rotate-array) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Adityaroy000/DSA-CODES/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/Adityaroy000/DSA-CODES/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/Adityaroy000/DSA-CODES/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/Adityaroy000/DSA-CODES/tree/master/1094-car-pooling) |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Adityaroy000/DSA-CODES/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Adityaroy000/DSA-CODES/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Adityaroy000/DSA-CODES/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Adityaroy000/DSA-CODES/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0126-word-ladder-ii) |
@@ -1008,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Adityaroy000/DSA-CODES/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Adityaroy000/DSA-CODES/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Adityaroy000/DSA-CODES/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/0136-single-number) |
