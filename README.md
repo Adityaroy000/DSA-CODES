@@ -1008,6 +1008,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Adityaroy000/DSA-CODES/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/Adityaroy000/DSA-CODES/tree/master/0401-binary-watch) |
 | [0800-letter-case-permutation](https://github.com/Adityaroy000/DSA-CODES/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/Adityaroy000/DSA-CODES/tree/master/0813-all-paths-from-source-to-target) |
 ## Bit Manipulation
@@ -1026,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Adityaroy000/DSA-CODES/tree/master/0338-counting-bits) |
+| [0401-binary-watch](https://github.com/Adityaroy000/DSA-CODES/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Adityaroy000/DSA-CODES/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/Adityaroy000/DSA-CODES/tree/master/0800-letter-case-permutation) |
