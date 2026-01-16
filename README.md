@@ -1029,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Adityaroy000/DSA-CODES/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/Adityaroy000/DSA-CODES/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0461-hamming-distance](https://github.com/Adityaroy000/DSA-CODES/tree/master/0461-hamming-distance) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Adityaroy000/DSA-CODES/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/Adityaroy000/DSA-CODES/tree/master/0800-letter-case-permutation) |
 | [1177-can-make-palindrome-from-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/1177-can-make-palindrome-from-substring) |
