@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaroy000/DSA-CODES/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Adityaroy000/DSA-CODES/tree/master/0355-design-twitter) |
+| [0389-find-the-difference](https://github.com/Adityaroy000/DSA-CODES/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaroy000/DSA-CODES/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaroy000/DSA-CODES/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Adityaroy000/DSA-CODES/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Adityaroy000/DSA-CODES/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Adityaroy000/DSA-CODES/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0594-longest-harmonious-subsequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0594-longest-harmonious-subsequence) |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/Adityaroy000/DSA-CODES/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0389-find-the-difference](https://github.com/Adityaroy000/DSA-CODES/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Adityaroy000/DSA-CODES/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaroy000/DSA-CODES/tree/master/0424-longest-repeating-character-replacement) |
@@ -1028,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Adityaroy000/DSA-CODES/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/Adityaroy000/DSA-CODES/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Adityaroy000/DSA-CODES/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/Adityaroy000/DSA-CODES/tree/master/0461-hamming-distance) |
