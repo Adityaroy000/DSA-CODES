@@ -634,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Adityaroy000/DSA-CODES/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Adityaroy000/DSA-CODES/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0410-split-array-largest-sum) |
@@ -1499,4 +1500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/0729-my-calendar-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Adityaroy000/DSA-CODES/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
