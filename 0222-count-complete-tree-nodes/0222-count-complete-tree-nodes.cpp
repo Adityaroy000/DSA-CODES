@@ -11,30 +11,45 @@
  */
 class Solution {
 public:
-    void solve(TreeNode* root, int& cnt){
-        if(!root) return;
-        cnt++;
-        solve(root->left,cnt);
-        solve(root->right,cnt);
-    } 
+    bool exist(int idx,int h, TreeNode* root){
+        int l = 0;
+        int r = (1<<(h-1))-1;
+
+        for(int i=0;i<h-1;i++){
+            int mid = l+(r-l)/2;
+            if(idx <= mid){
+                root = root->left;
+                r = mid;
+            }else{
+                root = root->right;
+                l=mid+1;
+            }
+            if(root == NULL) return false;
+        }
+        return true;
+    }
     int countNodes(TreeNode* root) {
         if(!root) return 0;
-
-        TreeNode* l = root;
-        TreeNode* r = root;
-        int lh = 0,rh = 0;
-        while(l){
-            lh++;
-            l = l->left;
-        }
-        while(r){
-            rh++;
-            r = r->right;
+        int h = 0;
+        TreeNode* temp = root;
+        while(temp){
+            h++;
+            temp = temp->left;
         }
 
-        if(lh == rh) return pow(2,lh)-1;
-        
-        return 1+countNodes(root->left)+countNodes(root->right);
-        
+        int nodesBeforeLastLevel = (1<<(h-1)) - 1;
+
+        int l=0,r = (1<<(h-1))-1;
+
+        while(l<=r){
+            int mid = (l+r)/2;
+
+            if(exist(mid,h,root)){
+                l = mid+1;
+            }else r = mid-1;
+        }
+
+        return nodesBeforeLastLevel+l;
+
     }
 };
