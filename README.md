@@ -644,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Adityaroy000/DSA-CODES/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Adityaroy000/DSA-CODES/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0410-split-array-largest-sum) |
 | [0528-random-pick-with-weight](https://github.com/Adityaroy000/DSA-CODES/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0540-single-element-in-a-sorted-array) |
@@ -1511,4 +1512,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Adityaroy000/DSA-CODES/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Adityaroy000/DSA-CODES/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
