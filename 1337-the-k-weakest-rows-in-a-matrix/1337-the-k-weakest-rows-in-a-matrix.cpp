@@ -6,8 +6,18 @@ public:
 
         vector<pair<int,int>>ones;
         for(int i= 0;i<r;i++){
-            int sum = accumulate(mat[i].begin(),mat[i].end(),0);
-            ones.push_back({sum,i});
+            int low = 0, high = c-1;
+            int lidx = -1;
+            while(low<=high){
+                int mid = (high+low)/2;
+
+                if(mat[i][mid]==0){
+                    lidx = mid;
+                    high = mid-1;
+                }else low = mid+1;
+            }
+            if(lidx == -1) ones.push_back({c, i});
+            else ones.push_back({lidx, i});
         }
 
         sort(ones.begin(),ones.end());
