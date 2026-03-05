@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Adityaroy000/DSA-CODES/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Adityaroy000/DSA-CODES/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/Adityaroy000/DSA-CODES/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/Adityaroy000/DSA-CODES/tree/master/0382-linked-list-random-node) |
 | [0528-random-pick-with-weight](https://github.com/Adityaroy000/DSA-CODES/tree/master/0528-random-pick-with-weight) |
 | [0670-maximum-swap](https://github.com/Adityaroy000/DSA-CODES/tree/master/0670-maximum-swap) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Adityaroy000/DSA-CODES/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0410-split-array-largest-sum) |
 | [0528-random-pick-with-weight](https://github.com/Adityaroy000/DSA-CODES/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0540-single-element-in-a-sorted-array) |
