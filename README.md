@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3463-alternating-groups-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3463-alternating-groups-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Adityaroy000/DSA-CODES/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3477-fruits-into-baskets-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3477-fruits-into-baskets-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/2460-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Adityaroy000/DSA-CODES/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Adityaroy000/DSA-CODES/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3477-fruits-into-baskets-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3477-fruits-into-baskets-ii) |
 | [3721-count-mentions-per-user](https://github.com/Adityaroy000/DSA-CODES/tree/master/3721-count-mentions-per-user) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3953-minimum-discards-to-balance-inventory](https://github.com/Adityaroy000/DSA-CODES/tree/master/3953-minimum-discards-to-balance-inventory) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3477-fruits-into-baskets-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3477-fruits-into-baskets-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3643-zero-array-transformation-ii) |
 | [3771-total-score-of-dungeon-runs](https://github.com/Adityaroy000/DSA-CODES/tree/master/3771-total-score-of-dungeon-runs) |
 ## Linked List
@@ -1500,6 +1503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/0729-my-calendar-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3477-fruits-into-baskets-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Reservoir Sampling
 |  |
@@ -1523,6 +1527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/0729-my-calendar-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3477-fruits-into-baskets-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Interactive
 |  |
