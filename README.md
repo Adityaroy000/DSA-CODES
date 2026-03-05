@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Adityaroy000/DSA-CODES/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Adityaroy000/DSA-CODES/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/Adityaroy000/DSA-CODES/tree/master/0382-linked-list-random-node) |
+| [0441-arranging-coins](https://github.com/Adityaroy000/DSA-CODES/tree/master/0441-arranging-coins) |
 | [0528-random-pick-with-weight](https://github.com/Adityaroy000/DSA-CODES/tree/master/0528-random-pick-with-weight) |
 | [0670-maximum-swap](https://github.com/Adityaroy000/DSA-CODES/tree/master/0670-maximum-swap) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Adityaroy000/DSA-CODES/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Adityaroy000/DSA-CODES/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Adityaroy000/DSA-CODES/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/Adityaroy000/DSA-CODES/tree/master/0441-arranging-coins) |
 | [0528-random-pick-with-weight](https://github.com/Adityaroy000/DSA-CODES/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Adityaroy000/DSA-CODES/tree/master/0658-find-k-closest-elements) |
