@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-bus-routes](https://github.com/Adityaroy000/DSA-CODES/tree/master/0833-bus-routes) |
 | [0848-shifting-letters](https://github.com/Adityaroy000/DSA-CODES/tree/master/0848-shifting-letters) |
 | [0876-hand-of-straights](https://github.com/Adityaroy000/DSA-CODES/tree/master/0876-hand-of-straights) |
+| [0888-fair-candy-swap](https://github.com/Adityaroy000/DSA-CODES/tree/master/0888-fair-candy-swap) |
 | [0907-koko-eating-bananas](https://github.com/Adityaroy000/DSA-CODES/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/Adityaroy000/DSA-CODES/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/Adityaroy000/DSA-CODES/tree/master/0945-snakes-and-ladders) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Adityaroy000/DSA-CODES/tree/master/0817-design-hashmap) |
 | [0833-bus-routes](https://github.com/Adityaroy000/DSA-CODES/tree/master/0833-bus-routes) |
 | [0876-hand-of-straights](https://github.com/Adityaroy000/DSA-CODES/tree/master/0876-hand-of-straights) |
+| [0888-fair-candy-swap](https://github.com/Adityaroy000/DSA-CODES/tree/master/0888-fair-candy-swap) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0966-binary-subarrays-with-sum) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Adityaroy000/DSA-CODES/tree/master/0721-accounts-merge) |
 | [0778-reorganize-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/Adityaroy000/DSA-CODES/tree/master/0876-hand-of-straights) |
+| [0888-fair-candy-swap](https://github.com/Adityaroy000/DSA-CODES/tree/master/0888-fair-candy-swap) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/Adityaroy000/DSA-CODES/tree/master/1094-car-pooling) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adityaroy000/DSA-CODES/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -655,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Adityaroy000/DSA-CODES/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Adityaroy000/DSA-CODES/tree/master/0792-binary-search) |
+| [0888-fair-candy-swap](https://github.com/Adityaroy000/DSA-CODES/tree/master/0888-fair-candy-swap) |
 | [0907-koko-eating-bananas](https://github.com/Adityaroy000/DSA-CODES/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Adityaroy000/DSA-CODES/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Adityaroy000/DSA-CODES/tree/master/1056-capacity-to-ship-packages-within-d-days) |
