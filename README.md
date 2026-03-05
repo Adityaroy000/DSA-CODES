@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Adityaroy000/DSA-CODES/tree/master/1293-three-consecutive-odds) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Adityaroy000/DSA-CODES/tree/master/1310-xor-queries-of-a-subarray) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/Adityaroy000/DSA-CODES/tree/master/1390-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Adityaroy000/DSA-CODES/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Adityaroy000/DSA-CODES/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Adityaroy000/DSA-CODES/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1753-path-with-minimum-effort](https://github.com/Adityaroy000/DSA-CODES/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/2047-find-a-peak-element-ii) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Adityaroy000/DSA-CODES/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Adityaroy000/DSA-CODES/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Adityaroy000/DSA-CODES/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Adityaroy000/DSA-CODES/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/1646-kth-missing-positive-number) |
