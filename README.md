@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaroy000/DSA-CODES/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Adityaroy000/DSA-CODES/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0416-partition-equal-subset-sum) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/Adityaroy000/DSA-CODES/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Adityaroy000/DSA-CODES/tree/master/0304-range-sum-query-2d-immutable) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Adityaroy000/DSA-CODES/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/Adityaroy000/DSA-CODES/tree/master/0945-snakes-and-ladders) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaroy000/DSA-CODES/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Adityaroy000/DSA-CODES/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/Adityaroy000/DSA-CODES/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Adityaroy000/DSA-CODES/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Adityaroy000/DSA-CODES/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Adityaroy000/DSA-CODES/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Adityaroy000/DSA-CODES/tree/master/0441-arranging-coins) |
 | [0528-random-pick-with-weight](https://github.com/Adityaroy000/DSA-CODES/tree/master/0528-random-pick-with-weight) |
@@ -991,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaroy000/DSA-CODES/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Adityaroy000/DSA-CODES/tree/master/0355-design-twitter) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/Adityaroy000/DSA-CODES/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Adityaroy000/DSA-CODES/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/Adityaroy000/DSA-CODES/tree/master/0744-network-delay-time) |
