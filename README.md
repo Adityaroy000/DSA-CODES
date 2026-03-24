@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Adityaroy000/DSA-CODES/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0416-partition-equal-subset-sum) |
+| [0419-battleships-in-a-board](https://github.com/Adityaroy000/DSA-CODES/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Adityaroy000/DSA-CODES/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Adityaroy000/DSA-CODES/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Adityaroy000/DSA-CODES/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Adityaroy000/DSA-CODES/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0419-battleships-in-a-board](https://github.com/Adityaroy000/DSA-CODES/tree/master/0419-battleships-in-a-board) |
 | [0529-minesweeper](https://github.com/Adityaroy000/DSA-CODES/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Adityaroy000/DSA-CODES/tree/master/0695-max-area-of-island) |
@@ -1213,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Adityaroy000/DSA-CODES/tree/master/0404-sum-of-left-leaves) |
+| [0419-battleships-in-a-board](https://github.com/Adityaroy000/DSA-CODES/tree/master/0419-battleships-in-a-board) |
 | [0437-path-sum-iii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Adityaroy000/DSA-CODES/tree/master/0513-find-bottom-left-tree-value) |
