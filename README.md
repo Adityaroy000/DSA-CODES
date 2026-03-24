@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/0643-maximum-average-subarray-i) |
 | [0654-maximum-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/Adityaroy000/DSA-CODES/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/Adityaroy000/DSA-CODES/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Adityaroy000/DSA-CODES/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/Adityaroy000/DSA-CODES/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/0729-my-calendar-i) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0529-minesweeper](https://github.com/Adityaroy000/DSA-CODES/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/Adityaroy000/DSA-CODES/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Adityaroy000/DSA-CODES/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/Adityaroy000/DSA-CODES/tree/master/0945-snakes-and-ladders) |
 | [0967-minimum-falling-path-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0967-minimum-falling-path-sum) |
@@ -1224,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Adityaroy000/DSA-CODES/tree/master/0687-longest-univalue-path) |
+| [0695-max-area-of-island](https://github.com/Adityaroy000/DSA-CODES/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Adityaroy000/DSA-CODES/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Adityaroy000/DSA-CODES/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Adityaroy000/DSA-CODES/tree/master/0744-network-delay-time) |
@@ -1365,6 +1368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityaroy000/DSA-CODES/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0655-print-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0655-print-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Adityaroy000/DSA-CODES/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Adityaroy000/DSA-CODES/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Adityaroy000/DSA-CODES/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Adityaroy000/DSA-CODES/tree/master/0744-network-delay-time) |
@@ -1543,4 +1547,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Adityaroy000/DSA-CODES/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Adityaroy000/DSA-CODES/tree/master/0374-guess-number-higher-or-lower) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Adityaroy000/DSA-CODES/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
