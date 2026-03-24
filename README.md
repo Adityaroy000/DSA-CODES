@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Adityaroy000/DSA-CODES/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2615-sum-of-distances](https://github.com/Adityaroy000/DSA-CODES/tree/master/2615-sum-of-distances) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Adityaroy000/DSA-CODES/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Adityaroy000/DSA-CODES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Adityaroy000/DSA-CODES/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Adityaroy000/DSA-CODES/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/2047-find-a-peak-element-ii) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Adityaroy000/DSA-CODES/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Adityaroy000/DSA-CODES/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Adityaroy000/DSA-CODES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3822-fill-a-special-grid](https://github.com/Adityaroy000/DSA-CODES/tree/master/3822-fill-a-special-grid) |
@@ -1254,6 +1256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Adityaroy000/DSA-CODES/tree/master/1753-path-with-minimum-effort) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Adityaroy000/DSA-CODES/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Adityaroy000/DSA-CODES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -1396,6 +1399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-time-needed-to-inform-all-employees](https://github.com/Adityaroy000/DSA-CODES/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Adityaroy000/DSA-CODES/tree/master/1753-path-with-minimum-effort) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Adityaroy000/DSA-CODES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Search Tree
@@ -1551,4 +1555,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Adityaroy000/DSA-CODES/tree/master/0695-max-area-of-island) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Adityaroy000/DSA-CODES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
