@@ -17,11 +17,10 @@ public:
         }
         int ans = 0;
         for(int i=1;i<=m;i++){
-            int currarea = 0,mini=INT_MAX;
+            int currarea = 0;
             for(int j=0;j<n;j++){
                 if(pre[i][j]==0) break;
-                mini = min(mini,pre[i][j]);
-                currarea = mini*(j+1);
+                currarea = pre[i][j]*(j+1);
                 ans = max(ans,currarea);
             }
         }
