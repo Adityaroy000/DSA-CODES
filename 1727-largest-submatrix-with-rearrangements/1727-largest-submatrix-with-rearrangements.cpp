@@ -4,23 +4,21 @@ public:
         int m = matrix.size();
         int n = matrix[0].size();
 
-        vector<vector<int>>pre(m+1,vector<int>(n,0));
-
-        for(int i=1;i<=m;i++){
+        for(int i=1;i<m;i++){
             for(int j=0;j<n;j++){
-                if(matrix[i-1][j]!=0) pre[i][j] = pre[i-1][j] + 1;
+                if(matrix[i][j] == 1) matrix[i][j] += matrix[i-1][j];
             }
         }
 
-        for(int i=1;i<=m;i++){
-            sort(pre[i].begin(),pre[i].end(),greater<int>());
+        for(int i=0;i<m;i++){
+            sort(matrix[i].begin(),matrix[i].end(),greater<int>());
         }
         int ans = 0;
-        for(int i=1;i<=m;i++){
+        for(int i=0;i<m;i++){
             int currarea = 0;
             for(int j=0;j<n;j++){
-                if(pre[i][j]==0) break;
-                currarea = pre[i][j]*(j+1);
+                if(matrix[i][j]==0) break;
+                currarea = matrix[i][j]*(j+1);
                 ans = max(ans,currarea);
             }
         }
