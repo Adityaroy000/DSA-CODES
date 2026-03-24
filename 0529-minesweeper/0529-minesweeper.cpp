@@ -29,7 +29,7 @@ public:
                 int nrow = row+drow[i];
                 int ncol = col+dcol[i];
 
-                if(nrow>=0 && nrow<r && ncol>=0 && ncol<c && !vis[nrow][ncol]){
+                if(nrow>=0 && nrow<r && ncol>=0 && ncol<c){
                     if(board[nrow][ncol]=='M') cnt++;
                 }
             } 
