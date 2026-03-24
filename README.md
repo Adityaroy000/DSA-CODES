@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/Adityaroy000/DSA-CODES/tree/master/0528-random-pick-with-weight) |
+| [0529-minesweeper](https://github.com/Adityaroy000/DSA-CODES/tree/master/0529-minesweeper) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/0560-subarray-sum-equals-k) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Adityaroy000/DSA-CODES/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Adityaroy000/DSA-CODES/tree/master/0304-range-sum-query-2d-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0529-minesweeper](https://github.com/Adityaroy000/DSA-CODES/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Adityaroy000/DSA-CODES/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/Adityaroy000/DSA-CODES/tree/master/0945-snakes-and-ladders) |
@@ -1207,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/Adityaroy000/DSA-CODES/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Adityaroy000/DSA-CODES/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/Adityaroy000/DSA-CODES/tree/master/0529-minesweeper) |
 | [0543-diameter-of-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Adityaroy000/DSA-CODES/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/Adityaroy000/DSA-CODES/tree/master/0563-binary-tree-tilt) |
@@ -1353,6 +1356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Adityaroy000/DSA-CODES/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Adityaroy000/DSA-CODES/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Adityaroy000/DSA-CODES/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/Adityaroy000/DSA-CODES/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Adityaroy000/DSA-CODES/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0617-merge-two-binary-trees) |
