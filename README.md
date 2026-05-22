@@ -1163,6 +1163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0904-leaf-similar-trees) |
 | [0930-all-possible-full-binary-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0930-all-possible-full-binary-trees) |
 | [0955-complete-binary-tree-inserter](https://github.com/Adityaroy000/DSA-CODES/tree/master/0955-complete-binary-tree-inserter) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1005-univalued-binary-tree) |
@@ -1329,6 +1330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0904-leaf-similar-trees) |
 | [0930-all-possible-full-binary-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0930-all-possible-full-binary-trees) |
 | [0955-complete-binary-tree-inserter](https://github.com/Adityaroy000/DSA-CODES/tree/master/0955-complete-binary-tree-inserter) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Adityaroy000/DSA-CODES/tree/master/0988-flip-equivalent-binary-trees) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1005-univalued-binary-tree) |
@@ -1391,6 +1393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/Adityaroy000/DSA-CODES/tree/master/0945-snakes-and-ladders) |
 | [0955-complete-binary-tree-inserter](https://github.com/Adityaroy000/DSA-CODES/tree/master/0955-complete-binary-tree-inserter) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1005-univalued-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
