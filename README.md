@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Adityaroy000/DSA-CODES/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Adityaroy000/DSA-CODES/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Adityaroy000/DSA-CODES/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Adityaroy000/DSA-CODES/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Adityaroy000/DSA-CODES/tree/master/3321-type-of-triangle) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Adityaroy000/DSA-CODES/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Adityaroy000/DSA-CODES/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Adityaroy000/DSA-CODES/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3201-distribute-candies-among-children-ii) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/Adityaroy000/DSA-CODES/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3630-total-characters-in-string-after-transformations-ii) |
