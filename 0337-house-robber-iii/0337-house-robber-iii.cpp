@@ -14,14 +14,14 @@ public:
     unordered_map<TreeNode*,int>mpp;
     int rob(TreeNode* root) {
         if(!root) return 0;
-        
-        if(mpp.count(root)!=0) return mpp[root];
-        
+
+        if(mpp.count(root)) return mpp[root];
         int pick = root->val;
         if(root->left){
             pick += rob(root->left->left);
             pick += rob(root->left->right);
         }
+
         if(root->right){
             pick += rob(root->right->left);
             pick += rob(root->right->right);
