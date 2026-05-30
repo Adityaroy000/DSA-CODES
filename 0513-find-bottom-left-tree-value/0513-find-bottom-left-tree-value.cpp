@@ -11,21 +11,23 @@
  */
 class Solution {
 public:
-    map<int,int>mpp;
-    void solve(TreeNode* root,int level){
-        if(!root) return;
+    int findBottomLeftValue(TreeNode* root) {
+        queue<pair<TreeNode*,int>>q;
+        q.push({root,0});
+        int ans = INT_MIN;
+        int lastlev = -1;
+        while(!q.empty()){
+            auto [node,currlev] = q.front();
+            q.pop();
+            if(lastlev != currlev){
+                ans = node->val;
+                lastlev = currlev;
+            }
 
-        if(!root->left && !root->right){
-            if(mpp.count(level)==0) mpp[level] = root->val;
+            if(node->left) q.push({node->left,currlev+1});
+            if(node->right) q.push({node->right,currlev+1});
         }
 
-        solve(root->left,level+1);
-        solve(root->right,level+1);
-
-    }
-    int findBottomLeftValue(TreeNode* root) {
-        solve(root,0);
-
-        return mpp.rbegin()->second;
+        return ans;
     }
 };
