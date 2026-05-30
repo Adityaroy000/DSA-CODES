@@ -3,6 +3,7 @@ public:
     unordered_map<int,int>mpp;
     vector<vector<int>>adj;
     vector<int>parent;
+    vector<int>temp;
     LockingTree(vector<int>& parent) {
         int n = parent.size();
         this->parent = parent;
@@ -32,7 +33,7 @@ public:
         return false;
     }
 
-    bool check_locked_descendant (int node){
+    void check_locked_descendant (int node){
         queue<int>q;
         for(auto it : adj[node]){
             q.push(it);
@@ -42,30 +43,9 @@ public:
             int curr = q.front();
             q.pop();
 
-            if(mpp.count(curr)) return true;
-
-            for(auto it : adj[curr]){
-                q.push(it);
+            if(mpp.count(curr)) {
+                temp.push_back(curr);
             }
-        }
-
-        return false;
-    }
-
-    void unlock_locked_descendant(int node){
-        queue<int>q;
-        for(auto it : adj[node]){
-            q.push(it);
-        }
-
-        while(!q.empty()){
-            int curr = q.front();
-            q.pop();
-
-            if(mpp.count(curr)){
-                mpp.erase(curr);
-            }
-
             for(auto it : adj[curr]){
                 q.push(it);
             }
@@ -73,7 +53,7 @@ public:
     }
     
     bool upgrade(int num, int user) {
-        
+        temp.clear();
         if(mpp.count(num)) return false;
 
         int curr = num;
@@ -82,12 +62,14 @@ public:
             curr = parent[curr];
         }
 
-        bool solve = check_locked_descendant(num);
-        if(solve == false) return false;
+        check_locked_descendant(num);
+        if(temp.empty() == true) return false;
 
         mpp[num] = user;
 
-        unlock_locked_descendant(num);
+        for(int i : temp){
+            mpp.erase(i);
+        }
 
         return true;
     }
