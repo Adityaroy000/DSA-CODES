@@ -3,6 +3,7 @@ public:
 // rules for a binary tree:
 // must have only one node whose indegree is 0 , if more than 1 have idegree as 0 then we have disconnected nodes. 
 //every node other than root must have indegree 1 means only one parent
+// once we have root then traverse through the tree if it would be valid then we will get all n nodes else we wont.
     bool validateBinaryTreeNodes(int n, vector<int>& leftChild, vector<int>& rightChild) {
         vector<int>indeg(n,0);
 
