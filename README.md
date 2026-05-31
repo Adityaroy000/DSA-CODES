@@ -1107,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1177-can-make-palindrome-from-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/1177-can-make-palindrome-from-substring) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Adityaroy000/DSA-CODES/tree/master/1310-xor-queries-of-a-subarray) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Adityaroy000/DSA-CODES/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1873-longest-nice-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/1873-longest-nice-substring) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -1194,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Adityaroy000/DSA-CODES/tree/master/1361-validate-binary-tree-nodes) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Adityaroy000/DSA-CODES/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/1530-number-of-good-leaf-nodes-pairs) |
@@ -1284,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Adityaroy000/DSA-CODES/tree/master/1361-validate-binary-tree-nodes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Adityaroy000/DSA-CODES/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Adityaroy000/DSA-CODES/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/1530-number-of-good-leaf-nodes-pairs) |
@@ -1374,6 +1377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1361-validate-binary-tree-nodes](https://github.com/Adityaroy000/DSA-CODES/tree/master/1361-validate-binary-tree-nodes) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1530-number-of-good-leaf-nodes-pairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/1530-number-of-good-leaf-nodes-pairs) |
 | [2384-root-equals-sum-of-children](https://github.com/Adityaroy000/DSA-CODES/tree/master/2384-root-equals-sum-of-children) |
@@ -1440,6 +1444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Adityaroy000/DSA-CODES/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Adityaroy000/DSA-CODES/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Adityaroy000/DSA-CODES/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1457-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1457-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Adityaroy000/DSA-CODES/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Adityaroy000/DSA-CODES/tree/master/1753-path-with-minimum-effort) |
