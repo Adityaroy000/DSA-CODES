@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Adityaroy000/DSA-CODES/tree/master/1073-number-of-enclaves) |
 | [1094-car-pooling](https://github.com/Adityaroy000/DSA-CODES/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Adityaroy000/DSA-CODES/tree/master/1109-corporate-flight-bookings) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Adityaroy000/DSA-CODES/tree/master/1110-delete-nodes-and-return-forest) |
 | [1127-last-stone-weight](https://github.com/Adityaroy000/DSA-CODES/tree/master/1127-last-stone-weight) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1177-can-make-palindrome-from-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/1177-can-make-palindrome-from-substring) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Adityaroy000/DSA-CODES/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/Adityaroy000/DSA-CODES/tree/master/1039-find-the-town-judge) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Adityaroy000/DSA-CODES/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Adityaroy000/DSA-CODES/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1177-can-make-palindrome-from-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/1177-can-make-palindrome-from-substring) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -1194,6 +1196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adityaroy000/DSA-CODES/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Adityaroy000/DSA-CODES/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Adityaroy000/DSA-CODES/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Adityaroy000/DSA-CODES/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -1286,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Adityaroy000/DSA-CODES/tree/master/1073-number-of-enclaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Adityaroy000/DSA-CODES/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Adityaroy000/DSA-CODES/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Adityaroy000/DSA-CODES/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -1379,6 +1383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Adityaroy000/DSA-CODES/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Adityaroy000/DSA-CODES/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Adityaroy000/DSA-CODES/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Adityaroy000/DSA-CODES/tree/master/1325-delete-leaves-with-a-given-value) |
