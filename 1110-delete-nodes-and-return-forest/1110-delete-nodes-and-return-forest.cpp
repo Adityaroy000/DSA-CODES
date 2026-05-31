@@ -15,11 +15,7 @@ public:
     vector<TreeNode*>ans;
     TreeNode* solve(TreeNode* root){
         if(!root) return NULL;
-
-        if(!root->left && !root->right){
-            if(st.count(root->val)) return NULL;
-        }
-
+        
         root->left = solve(root->left);
         root->right = solve(root->right);
 
