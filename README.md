@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Adityaroy000/DSA-CODES/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Adityaroy000/DSA-CODES/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Adityaroy000/DSA-CODES/tree/master/0658-find-k-closest-elements) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/Adityaroy000/DSA-CODES/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/Adityaroy000/DSA-CODES/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0416-partition-equal-subset-sum) |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Adityaroy000/DSA-CODES/tree/master/0257-binary-tree-paths) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0389-find-the-difference](https://github.com/Adityaroy000/DSA-CODES/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Adityaroy000/DSA-CODES/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaroy000/DSA-CODES/tree/master/0424-longest-repeating-character-replacement) |
