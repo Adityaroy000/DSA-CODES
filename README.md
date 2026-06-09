@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Adityaroy000/DSA-CODES/tree/master/2615-sum-of-distances) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Adityaroy000/DSA-CODES/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Adityaroy000/DSA-CODES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2678-number-of-senior-citizens](https://github.com/Adityaroy000/DSA-CODES/tree/master/2678-number-of-senior-citizens) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Adityaroy000/DSA-CODES/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Adityaroy000/DSA-CODES/tree/master/2866-longest-even-odd-subarray-with-threshold) |
@@ -927,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Adityaroy000/DSA-CODES/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2678-number-of-senior-citizens](https://github.com/Adityaroy000/DSA-CODES/tree/master/2678-number-of-senior-citizens) |
 | [3110-score-of-a-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/3110-score-of-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
