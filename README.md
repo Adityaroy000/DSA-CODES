@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Adityaroy000/DSA-CODES/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Adityaroy000/DSA-CODES/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1917-maximum-average-pass-ratio](https://github.com/Adityaroy000/DSA-CODES/tree/master/1917-maximum-average-pass-ratio) |
+| [1929-concatenation-of-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1991-find-the-middle-index-in-array) |
 | [1993-operations-on-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1993-operations-on-tree) |
 | [2047-find-a-peak-element-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/2047-find-a-peak-element-ii) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Adityaroy000/DSA-CODES/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/Adityaroy000/DSA-CODES/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/Adityaroy000/DSA-CODES/tree/master/1094-car-pooling) |
+| [1929-concatenation-of-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Adityaroy000/DSA-CODES/tree/master/2048-build-array-from-permutation) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Adityaroy000/DSA-CODES/tree/master/2260-divide-a-string-into-groups-of-size-k) |
