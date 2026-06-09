@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/Adityaroy000/DSA-CODES/tree/master/1390-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Adityaroy000/DSA-CODES/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1408-string-matching-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1408-string-matching-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Adityaroy000/DSA-CODES/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Adityaroy000/DSA-CODES/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -910,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/Adityaroy000/DSA-CODES/tree/master/0868-push-dominoes) |
 | [1177-can-make-palindrome-from-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/1177-can-make-palindrome-from-substring) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Adityaroy000/DSA-CODES/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1408-string-matching-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1408-string-matching-in-an-array) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1446-consecutive-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1446-consecutive-characters) |
@@ -1603,6 +1605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0572-subtree-of-another-tree) |
+| [1408-string-matching-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1408-string-matching-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
