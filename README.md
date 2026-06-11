@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Adityaroy000/DSA-CODES/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Adityaroy000/DSA-CODES/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Adityaroy000/DSA-CODES/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Adityaroy000/DSA-CODES/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Adityaroy000/DSA-CODES/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0219-contains-duplicate-ii) |
@@ -891,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Adityaroy000/DSA-CODES/tree/master/0127-word-ladder) |
 | [0187-repeated-dna-sequences](https://github.com/Adityaroy000/DSA-CODES/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Adityaroy000/DSA-CODES/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Adityaroy000/DSA-CODES/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Adityaroy000/DSA-CODES/tree/master/0257-binary-tree-paths) |
