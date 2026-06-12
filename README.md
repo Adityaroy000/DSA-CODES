@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3193-maximum-strong-pair-xor-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Adityaroy000/DSA-CODES/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Adityaroy000/DSA-CODES/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Adityaroy000/DSA-CODES/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Adityaroy000/DSA-CODES/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -678,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Adityaroy000/DSA-CODES/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Adityaroy000/DSA-CODES/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Adityaroy000/DSA-CODES/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -943,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Adityaroy000/DSA-CODES/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Adityaroy000/DSA-CODES/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3361-shift-distance-between-two-strings](https://github.com/Adityaroy000/DSA-CODES/tree/master/3361-shift-distance-between-two-strings) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Adityaroy000/DSA-CODES/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3629-total-characters-in-string-after-transformations-i) |
