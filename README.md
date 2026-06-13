@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/1646-kth-missing-positive-number) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Adityaroy000/DSA-CODES/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1753-path-with-minimum-effort](https://github.com/Adityaroy000/DSA-CODES/tree/master/1753-path-with-minimum-effort) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1854-maximum-population-year](https://github.com/Adityaroy000/DSA-CODES/tree/master/1854-maximum-population-year) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Adityaroy000/DSA-CODES/tree/master/1878-check-if-array-is-sorted-and-rotated) |
