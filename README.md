@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Adityaroy000/DSA-CODES/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Adityaroy000/DSA-CODES/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaroy000/DSA-CODES/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/Adityaroy000/DSA-CODES/tree/master/0355-design-twitter) |
@@ -907,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Adityaroy000/DSA-CODES/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Adityaroy000/DSA-CODES/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/Adityaroy000/DSA-CODES/tree/master/0290-word-pattern) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0389-find-the-difference](https://github.com/Adityaroy000/DSA-CODES/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0392-is-subsequence) |
