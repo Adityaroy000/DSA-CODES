@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Adityaroy000/DSA-CODES/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Adityaroy000/DSA-CODES/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [2965-find-missing-and-repeated-values](https://github.com/Adityaroy000/DSA-CODES/tree/master/2965-find-missing-and-repeated-values) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Adityaroy000/DSA-CODES/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Adityaroy000/DSA-CODES/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2615-sum-of-distances](https://github.com/Adityaroy000/DSA-CODES/tree/master/2615-sum-of-distances) |
+| [2965-find-missing-and-repeated-values](https://github.com/Adityaroy000/DSA-CODES/tree/master/2965-find-missing-and-repeated-values) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Adityaroy000/DSA-CODES/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Adityaroy000/DSA-CODES/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Adityaroy000/DSA-CODES/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Adityaroy000/DSA-CODES/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Adityaroy000/DSA-CODES/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/Adityaroy000/DSA-CODES/tree/master/2965-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3822-fill-a-special-grid](https://github.com/Adityaroy000/DSA-CODES/tree/master/3822-fill-a-special-grid) |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/Adityaroy000/DSA-CODES/tree/master/2485-find-the-pivot-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Adityaroy000/DSA-CODES/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2965-find-missing-and-repeated-values](https://github.com/Adityaroy000/DSA-CODES/tree/master/2965-find-missing-and-repeated-values) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Adityaroy000/DSA-CODES/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/3201-distribute-candies-among-children-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
