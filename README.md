@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/Adityaroy000/DSA-CODES/tree/master/1390-four-divisors) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Adityaroy000/DSA-CODES/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1408-string-matching-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/1370-count-number-of-nice-subarrays) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Adityaroy000/DSA-CODES/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1873-longest-nice-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/1873-longest-nice-substring) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Adityaroy000/DSA-CODES/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Adityaroy000/DSA-CODES/tree/master/1034-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/Adityaroy000/DSA-CODES/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1854-maximum-population-year](https://github.com/Adityaroy000/DSA-CODES/tree/master/1854-maximum-population-year) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Adityaroy000/DSA-CODES/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
