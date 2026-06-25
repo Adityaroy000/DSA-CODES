@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Adityaroy000/DSA-CODES/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Adityaroy000/DSA-CODES/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1480-running-sum-of-1d-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/1512-number-of-good-pairs) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Adityaroy000/DSA-CODES/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Adityaroy000/DSA-CODES/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/1646-kth-missing-positive-number) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Adityaroy000/DSA-CODES/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1512-number-of-good-pairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/1512-number-of-good-pairs) |
 | [1873-longest-nice-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/1873-longest-nice-substring) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Adityaroy000/DSA-CODES/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Adityaroy000/DSA-CODES/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adityaroy000/DSA-CODES/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Adityaroy000/DSA-CODES/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1512-number-of-good-pairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/1512-number-of-good-pairs) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Adityaroy000/DSA-CODES/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2050-count-good-numbers](https://github.com/Adityaroy000/DSA-CODES/tree/master/2050-count-good-numbers) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Adityaroy000/DSA-CODES/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -689,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Adityaroy000/DSA-CODES/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/1512-number-of-good-pairs) |
 | [1854-maximum-population-year](https://github.com/Adityaroy000/DSA-CODES/tree/master/1854-maximum-population-year) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Adityaroy000/DSA-CODES/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
