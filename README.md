@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/Adityaroy000/DSA-CODES/tree/master/0848-shifting-letters) |
 | [0876-hand-of-straights](https://github.com/Adityaroy000/DSA-CODES/tree/master/0876-hand-of-straights) |
 | [0888-fair-candy-swap](https://github.com/Adityaroy000/DSA-CODES/tree/master/0888-fair-candy-swap) |
+| [0896-monotonic-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0896-monotonic-array) |
 | [0907-koko-eating-bananas](https://github.com/Adityaroy000/DSA-CODES/tree/master/0907-koko-eating-bananas) |
 | [0929-unique-email-addresses](https://github.com/Adityaroy000/DSA-CODES/tree/master/0929-unique-email-addresses) |
 | [0943-sum-of-subarray-minimums](https://github.com/Adityaroy000/DSA-CODES/tree/master/0943-sum-of-subarray-minimums) |
