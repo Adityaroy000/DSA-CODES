@@ -10,14 +10,12 @@ public:
 
         for(int i=0;i<n;i++){
             string temp = words[i];
-            unordered_map<char,int>mp;
-            for(char ch:temp) mp[ch]++;
-
-            bool flag = false;
-            for(auto it : mp){
-                if(mpp.count(it.first) && mpp[it.first] >= it.second){
-                    flag = true;
-                }else {
+            unordered_map<char,int>mp = mpp;
+            bool flag = true;
+            for(char ch:temp) {
+                if(mp.count(ch)){
+                    (mp[ch]==1)?mp.erase(ch):mp[ch]--;
+                }else{
                     flag = false;
                     break;
                 }
