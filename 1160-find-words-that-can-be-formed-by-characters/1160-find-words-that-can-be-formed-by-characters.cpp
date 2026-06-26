@@ -1,27 +1,27 @@
 class Solution {
 public:
     int countCharacters(vector<string>& words, string chars) {
-        unordered_map<char,int>mpp;
-        int n = words.size();
+        vector<int> freq(26, 0);
 
-        for(char ch : chars) mpp[ch]++;
+        for(char ch : chars)
+            freq[ch - 'a']++;
 
         int ans = 0;
 
-        for(int i=0;i<n;i++){
-            string temp = words[i];
-            unordered_map<char,int>mp = mpp;
-            bool flag = true;
-            for(char ch:temp) {
-                if(mp.count(ch)){
-                    (mp[ch]==1)?mp.erase(ch):mp[ch]--;
-                }else{
-                    flag = false;
+        for(string &word : words) {
+            vector<int> temp = freq;
+            bool good = true;
+
+            for(char ch : word) {
+                if(temp[ch - 'a'] == 0) {
+                    good = false;
                     break;
                 }
+                temp[ch - 'a']--;
             }
 
-            if(flag) ans += temp.size();
+            if(good)
+                ans += word.size();
         }
 
         return ans;
