@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/Adityaroy000/DSA-CODES/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Adityaroy000/DSA-CODES/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Adityaroy000/DSA-CODES/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1436-destination-city](https://github.com/Adityaroy000/DSA-CODES/tree/master/1436-destination-city) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Adityaroy000/DSA-CODES/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1480-running-sum-of-1d-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/1512-number-of-good-pairs) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/Adityaroy000/DSA-CODES/tree/master/1370-count-number-of-nice-subarrays) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Adityaroy000/DSA-CODES/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1436-destination-city](https://github.com/Adityaroy000/DSA-CODES/tree/master/1436-destination-city) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Adityaroy000/DSA-CODES/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -955,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1408-string-matching-in-an-array) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1436-destination-city](https://github.com/Adityaroy000/DSA-CODES/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1446-consecutive-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Adityaroy000/DSA-CODES/tree/master/1684-count-the-number-of-consistent-strings) |
