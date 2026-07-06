@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/Adityaroy000/DSA-CODES/tree/master/1436-destination-city) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1496-path-crossing](https://github.com/Adityaroy000/DSA-CODES/tree/master/1496-path-crossing) |
 | [1512-number-of-good-pairs](https://github.com/Adityaroy000/DSA-CODES/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Adityaroy000/DSA-CODES/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1873-longest-nice-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/1873-longest-nice-substring) |
@@ -962,6 +963,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/Adityaroy000/DSA-CODES/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1446-consecutive-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1496-path-crossing](https://github.com/Adityaroy000/DSA-CODES/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Adityaroy000/DSA-CODES/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Adityaroy000/DSA-CODES/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
