@@ -965,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1496-path-crossing](https://github.com/Adityaroy000/DSA-CODES/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Adityaroy000/DSA-CODES/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Adityaroy000/DSA-CODES/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1871-jump-game-vii](https://github.com/Adityaroy000/DSA-CODES/tree/master/1871-jump-game-vii) |
