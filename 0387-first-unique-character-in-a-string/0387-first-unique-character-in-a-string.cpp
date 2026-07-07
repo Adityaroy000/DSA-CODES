@@ -2,21 +2,16 @@ class Solution {
 public:
     int firstUniqChar(string s) {
         int n = s.size();
-
-        unordered_map<char,pair<int,int>>mpp;
-
+        vector<int>freq(26,0);
         for(int i=0;i<n;i++){
-            mpp[s[i]].first++;
-            mpp[s[i]].second = i;
+           freq[s[i]-'a']++;
         }
 
-        int ans = INT_MAX;
-
-        for(auto &[ch, p] : mpp){
-            if(p.first == 1) ans = min(ans,p.second);
+        for(int i=0;i<n;i++){
+            if(freq[s[i]-'a']==1) return i;
         }
        
 
-        return ans==INT_MAX?-1:ans;
+        return -1;
     }
 };
