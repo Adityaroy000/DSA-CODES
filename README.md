@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/Adityaroy000/DSA-CODES/tree/master/0355-design-twitter) |
 | [0383-ransom-note](https://github.com/Adityaroy000/DSA-CODES/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Adityaroy000/DSA-CODES/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaroy000/DSA-CODES/tree/master/0424-longest-repeating-character-replacement) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaroy000/DSA-CODES/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Adityaroy000/DSA-CODES/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Adityaroy000/DSA-CODES/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0778-reorganize-string) |
@@ -914,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Adityaroy000/DSA-CODES/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Adityaroy000/DSA-CODES/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Adityaroy000/DSA-CODES/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/Adityaroy000/DSA-CODES/tree/master/0649-dota2-senate) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Adityaroy000/DSA-CODES/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Adityaroy000/DSA-CODES/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -941,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Adityaroy000/DSA-CODES/tree/master/0290-word-pattern) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0383-ransom-note](https://github.com/Adityaroy000/DSA-CODES/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Adityaroy000/DSA-CODES/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0394-decode-string) |
