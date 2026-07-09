@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Adityaroy000/DSA-CODES/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/Adityaroy000/DSA-CODES/tree/master/1109-corporate-flight-bookings) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Adityaroy000/DSA-CODES/tree/master/1110-delete-nodes-and-return-forest) |
+| [1122-relative-sort-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1122-relative-sort-array) |
 | [1127-last-stone-weight](https://github.com/Adityaroy000/DSA-CODES/tree/master/1127-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/Adityaroy000/DSA-CODES/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/Adityaroy000/DSA-CODES/tree/master/1039-find-the-town-judge) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Adityaroy000/DSA-CODES/tree/master/1110-delete-nodes-and-return-forest) |
+| [1122-relative-sort-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1122-relative-sort-array) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Adityaroy000/DSA-CODES/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1177-can-make-palindrome-from-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/1177-can-make-palindrome-from-substring) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1051-height-checker](https://github.com/Adityaroy000/DSA-CODES/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/Adityaroy000/DSA-CODES/tree/master/1094-car-pooling) |
+| [1122-relative-sort-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1122-relative-sort-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1340-jump-game-v](https://github.com/Adityaroy000/DSA-CODES/tree/master/1340-jump-game-v) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Adityaroy000/DSA-CODES/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -1738,4 +1741,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Adityaroy000/DSA-CODES/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
