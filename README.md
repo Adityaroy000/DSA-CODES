@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Adityaroy000/DSA-CODES/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1646-kth-missing-positive-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/1646-kth-missing-positive-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Adityaroy000/DSA-CODES/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1701-average-waiting-time](https://github.com/Adityaroy000/DSA-CODES/tree/master/1701-average-waiting-time) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Adityaroy000/DSA-CODES/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1753-path-with-minimum-effort](https://github.com/Adityaroy000/DSA-CODES/tree/master/1753-path-with-minimum-effort) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Adityaroy000/DSA-CODES/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/Adityaroy000/DSA-CODES/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/Adityaroy000/DSA-CODES/tree/master/1094-car-pooling) |
+| [1701-average-waiting-time](https://github.com/Adityaroy000/DSA-CODES/tree/master/1701-average-waiting-time) |
 | [1929-concatenation-of-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/Adityaroy000/DSA-CODES/tree/master/2048-build-array-from-permutation) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
