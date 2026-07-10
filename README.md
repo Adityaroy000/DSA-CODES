@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Adityaroy000/DSA-CODES/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0896-monotonic-array) |
 | [0907-koko-eating-bananas](https://github.com/Adityaroy000/DSA-CODES/tree/master/0907-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0912-sort-an-array) |
 | [0929-unique-email-addresses](https://github.com/Adityaroy000/DSA-CODES/tree/master/0929-unique-email-addresses) |
 | [0943-sum-of-subarray-minimums](https://github.com/Adityaroy000/DSA-CODES/tree/master/0943-sum-of-subarray-minimums) |
 | [0945-snakes-and-ladders](https://github.com/Adityaroy000/DSA-CODES/tree/master/0945-snakes-and-ladders) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0778-reorganize-string) |
 | [0876-hand-of-straights](https://github.com/Adityaroy000/DSA-CODES/tree/master/0876-hand-of-straights) |
 | [0888-fair-candy-swap](https://github.com/Adityaroy000/DSA-CODES/tree/master/0888-fair-candy-swap) |
+| [0912-sort-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0912-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1051-height-checker](https://github.com/Adityaroy000/DSA-CODES/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/Adityaroy000/DSA-CODES/tree/master/1094-car-pooling) |
@@ -899,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaroy000/DSA-CODES/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/0654-maximum-binary-tree) |
+| [0912-sort-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0912-sort-an-array) |
 | [1873-longest-nice-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/1873-longest-nice-substring) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3822-fill-a-special-grid](https://github.com/Adityaroy000/DSA-CODES/tree/master/3822-fill-a-special-grid) |
@@ -907,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Adityaroy000/DSA-CODES/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Adityaroy000/DSA-CODES/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Design
 |  |
@@ -1144,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/0778-reorganize-string) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Adityaroy000/DSA-CODES/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Adityaroy000/DSA-CODES/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0912-sort-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/Adityaroy000/DSA-CODES/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/Adityaroy000/DSA-CODES/tree/master/1127-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Adityaroy000/DSA-CODES/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -1611,6 +1616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Adityaroy000/DSA-CODES/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0912-sort-an-array) |
 ## Trie
 |  |
 | ------- |
@@ -1749,6 +1755,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Adityaroy000/DSA-CODES/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1122-relative-sort-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
