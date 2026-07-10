@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-average-waiting-time](https://github.com/Adityaroy000/DSA-CODES/tree/master/1701-average-waiting-time) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Adityaroy000/DSA-CODES/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1753-path-with-minimum-effort](https://github.com/Adityaroy000/DSA-CODES/tree/master/1753-path-with-minimum-effort) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Adityaroy000/DSA-CODES/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Adityaroy000/DSA-CODES/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1854-maximum-population-year](https://github.com/Adityaroy000/DSA-CODES/tree/master/1854-maximum-population-year) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Adityaroy000/DSA-CODES/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Adityaroy000/DSA-CODES/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1854-maximum-population-year](https://github.com/Adityaroy000/DSA-CODES/tree/master/1854-maximum-population-year) |
 | [1871-jump-game-vii](https://github.com/Adityaroy000/DSA-CODES/tree/master/1871-jump-game-vii) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Adityaroy000/DSA-CODES/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -1003,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/Adityaroy000/DSA-CODES/tree/master/1496-path-crossing) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Adityaroy000/DSA-CODES/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Adityaroy000/DSA-CODES/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Adityaroy000/DSA-CODES/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/1850-minimum-adjacent-swaps-to-reach-the-kth-smallest-number) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Adityaroy000/DSA-CODES/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1871-jump-game-vii](https://github.com/Adityaroy000/DSA-CODES/tree/master/1871-jump-game-vii) |
