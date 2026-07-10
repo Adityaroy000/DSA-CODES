@@ -21,17 +21,17 @@ public:
             return ans;
         }
 
-        vector<int>pre(n+1,1);
 
-        for(int i=1;i<=n;i++){
-            pre[i] = pre[i-1]*nums[i-1];
+        for(int i=1;i<n;i++){
+            nums[i] *= nums[i-1];
         }
-        int prod = 1;
-        for(int x : nums) prod *= x;
+        int prod = nums[n-1];
 
         vector<int>ans(n);
         for(int i=0;i<n;i++){
-            int el = (prod/pre[i+1])*pre[i];
+            int el;
+            if(i==0) el = (prod/nums[i]);
+            else el = (prod/nums[i])*nums[i-1];
             ans[i] = el;
         }
 
