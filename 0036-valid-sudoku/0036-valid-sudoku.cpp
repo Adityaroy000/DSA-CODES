@@ -1,48 +1,35 @@
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
-        int n = board.size();
+        //row
+        for(int i=0;i<9;i++){
+            unordered_set<char>st;
+            for(int j=0;j<9;j++){
+                if(st.count(board[i][j])) return false;
+                if(board[i][j] != '.') st.insert(board[i][j]);
+            }
+        }
+        //col
+        for(int i=0;i<9;i++){
+            unordered_set<char>st;
+            for(int j=0;j<9;j++){
+                if(st.count(board[j][i])) return false;
+                if(board[j][i] != '.') st.insert(board[j][i]);
+            }
+        }
 
-        for(int i=0;i<n;i++){
-            unordered_map<char,int>mpp;
-            for(int j=0;j<n;j++){
-               if(board[i][j] != '.') mpp[board[i][j]]++;
-            }
-            for(auto &it:mpp){
-                if(it.second>1){
-                    return false;
-                }
-            }
-        }
-        for(int i=0;i<n;i++){
-            unordered_map<char,int>mpp;
-            for(int j=0;j<n;j++){
-               if(board[j][i] != '.') mpp[board[j][i]]++;
-            }
-            for(auto &it:mpp){
-                if(it.second>1){
-                    return false;
-                }
-            }
-        }
-        int r = 0,c=0;
-        while(r<9){
-            c=0;
-            while(c<9){
-                int i = c;
-                int j = i+2;
-                unordered_map<char,int>mpp;
-                for(int row=r;row<=r+2;row++){
-                    for(int col=i;col<=j;col++){
-                        if(board[row][col]!='.') mpp[board[row][col]]++;
+        //3*3 box
+        for(int i=0;i<9;i+=3){
+            for(int j=0;j<9;j+=3){
+                //3*3
+                unordered_set<char>st;
+                for(int k=i;k<i+3;k++){
+                    for(int l=j;l<j+3;l++){
+                        if(st.count(board[k][l])) return false;
+                        if(board[k][l] != '.') st.insert(board[k][l]);
                     }
                 }
-                for(auto & it: mpp){
-                    if(it.second>1) return false;
-                }
-                c+=3;
             }
-            r+=3;
         }
         return true;
     }
