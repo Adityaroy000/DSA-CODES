@@ -1750,6 +1750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Adityaroy000/DSA-CODES/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Adityaroy000/DSA-CODES/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/Adityaroy000/DSA-CODES/tree/master/0695-max-area-of-island) |
 | [1361-validate-binary-tree-nodes](https://github.com/Adityaroy000/DSA-CODES/tree/master/1361-validate-binary-tree-nodes) |
