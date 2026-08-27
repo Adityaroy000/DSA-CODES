@@ -1769,4 +1769,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/0912-sort-an-array) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Adityaroy000/DSA-CODES/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
