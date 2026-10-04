@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/1873-longest-nice-substring) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Adityaroy000/DSA-CODES/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Adityaroy000/DSA-CODES/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Adityaroy000/DSA-CODES/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Adityaroy000/DSA-CODES/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1993-operations-on-tree](https://github.com/Adityaroy000/DSA-CODES/tree/master/1993-operations-on-tree) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/Adityaroy000/DSA-CODES/tree/master/1854-maximum-population-year) |
 | [1871-jump-game-vii](https://github.com/Adityaroy000/DSA-CODES/tree/master/1871-jump-game-vii) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Adityaroy000/DSA-CODES/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Adityaroy000/DSA-CODES/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1991-find-the-middle-index-in-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1991-find-the-middle-index-in-array) |
 | [2121-intervals-between-identical-elements](https://github.com/Adityaroy000/DSA-CODES/tree/master/2121-intervals-between-identical-elements) |
 | [2381-shifting-letters-ii](https://github.com/Adityaroy000/DSA-CODES/tree/master/2381-shifting-letters-ii) |
@@ -1014,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/Adityaroy000/DSA-CODES/tree/master/1871-jump-game-vii) |
 | [1873-longest-nice-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/1873-longest-nice-substring) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Adityaroy000/DSA-CODES/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Adityaroy000/DSA-CODES/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Adityaroy000/DSA-CODES/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Adityaroy000/DSA-CODES/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/Adityaroy000/DSA-CODES/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -1242,6 +1245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Adityaroy000/DSA-CODES/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Adityaroy000/DSA-CODES/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1873-longest-nice-substring](https://github.com/Adityaroy000/DSA-CODES/tree/master/1873-longest-nice-substring) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/Adityaroy000/DSA-CODES/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Adityaroy000/DSA-CODES/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Adityaroy000/DSA-CODES/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Adityaroy000/DSA-CODES/tree/master/3307-find-the-maximum-sum-of-node-values) |
